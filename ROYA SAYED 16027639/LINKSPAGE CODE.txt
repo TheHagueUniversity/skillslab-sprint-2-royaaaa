@@ -1,0 +1,70 @@
+<p>{Title}</p>
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7/jquery.min.js" type="text/javascript"></script>
+<script src="http://static.tumblr.com/iuw14ew/VSQma1786/jquery.style-my-tooltips.js" type="text/javascript"></script>
+<script type="text/javascript">// <![CDATA[
+(function($){ $(document).ready(function(){ $("[title],a[title],img[title]").style_my_tooltips({ tip_follows_cursor:true, tip_delay_time:100, tip_fade_speed:300, attribute:"title" }); }); })(jQuery);
+// ]]></script>
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.4/jquery.min.js" type="text/javascript"></script>
+<script src="http://static.tumblr.com/heqtwlw/ftAn7cy1u/jquery.scrollto-1.4.2-min.js" type="text/javascript"></script>
+<script src="http://static.tumblr.com/heqtwlw/FJXn7cy1b/jquery.localscroll-1.2.7-min.js" type="text/javascript"></script>
+<script type="text/javascript">// <![CDATA[
+$(document).ready(function () {  
+$.localScroll();       
+});
+// ]]></script>
+<div id="sidebar">
+<div id="name"><!--change name here--></div>
+<div id="navigation"><a href="#about">ABOUT</a><br /> <a href="#links">LINKS</a><br /> <a href="#tags">TAGS</a></div>
+<div id="footer"><!--change footer text here--> Once you've played for this club, you're always welcomed back for the rest of your life, you become Chelsea and it becomes you.</div>
+</div>
+<div id="header"><!--change header image here--><img src="http://static.tumblr.com/7d07vtl/UWbnc7qp9/chls.jpg" /></div>
+<!--start of about section-->
+<div id="about"><a id="#about"></a>
+<div class="content">
+<div class="title">INFO</div>
+<!--change avatar here--><img src="http://static.tumblr.com/vk3dkh2/wgGoinsw8/conte.png" />
+<div id="description"><!--start of description-->
+<p>Welcome, this is a Chelsea fanblog run by Roya, Lauren and Niky.</p>
+<p>This site claims no credit for any videos posted on this site unless stated otherwise. information on this blog are copyright to their respectful owners. If there is any content appearing on this blog that belongs to you and do not wish for it appear on this site, please message me with a link to say which post and it will be promptly removed.</p>
+<!--end of description--></div>
+</div>
+</div>
+<!--end of about section-->
+<p></p>
+<!--start of links section-->
+<div id="links">
+<div class="off"></div>
+<div class="content">
+<div class="title">LINKS</div>
+<div style="height: 200px; overflow: auto; margin-top: 10px;"><!--edit links here--> <a href="http://stamford-bridge.tumblr.com/tagged/my-edit">Edits</a> <a href="http://stamford-bridge.tumblr.com/tagged/my-gif">Gifs</a> <a href="http://stamford-bridge.tumblr.com/tagged/roya">Roya's stuff</a> <a href="http://stamford-bridge.tumblr.com/tagged/lauren">Lauren's stuff</a> <a href="http://stamford-bridge.tumblr.com/tagged/niky">Niky's stuff</a> <a href="http://stamford-bridge.tumblr.com/faq">FAQ</a></div>
+</div>
+</div>
+<!--end of links section-->
+<p></p>
+<!--start of tags section-->
+<div id="tags"><a id="#tags"></a>
+<div class="content">
+<div class="title">TAGS</div>
+<div style="margin-left: 150px; margin-top: -40px; overflow: auto; width: 315px; height: 255px;"><!--start of tag section 1-->
+<div class="group"><!--tag header-->Goalkeepers</div>
+<div class="tag"><a href="/tagged/petr-cech">Petr CECH</a> &gt; <a href="/tagged/thibaut courtois">Thibaut COURTOIS </a> &gt; <a href="/tagged/mark schwarzer">Mark SCHWARZER</a></div>
+<!--end of tag section 1--> <!--start of tag section 2-->
+<div class="group"><!--tag header-->Defenders</div>
+<div class="tag"><a href="/tagged/branislav-ivanovic">Branislav IVANOVIC</a> &gt; <a href="/tagged/john-terry">John TERRY</a> &gt; <a href="/tagged/cesar-azpilicueta">Cesar AZPILICUETA</a> &gt; <a href="/tagged/filipe-luis">Filipe LUIS</a> &gt; <a href="/tagged/gary-cahill">Gary CAHILL</a> &gt; <a href="/tagged/nathan-ake">Nathan AKE</a></div>
+<!--end of tag section 2--> <!--start of tag section 3-->
+<div class="group"><!--tag header-->Midfielders</div>
+<div class="tag"><a href="/tagged/cesc-fabregas">Cesc FABREGAS</a> &gt; <a href="/tagged/ramires">RAMIRES</a> &gt; <a href="/tagged/oscar">OSCAR</a> &gt; <a href="/tagged/eden-hazard">Eden HAZARD</a> &gt; <a href="/tagged/john-mikel-obi">John MIKEL OBI</a> &gt; <a href="/tagged/mohamed-salah">Mohamed SALAH</a> &gt; <a href="/tagged/willian">WILLIAN</a> &gt; <a href="/tagged/andre-schurrle">Andre SCHURRLE</a> &gt; <a href="/tagged/nemanja-matic">Nemanja MATIC</a> &gt; <a href="/tagged/lewis-baker">Lewis BAKER</a></div>
+<!--end of tag section 3--> <!--start of tag section 4-->
+<div class="group"><!--tag header-->Strikers</div>
+<div class="tag"><a href="/tagged/diego-costa">Diego COSTA</a> &gt; <a href="/tagged/didier-drogba">Didier DROGBA</a> &gt; <a href="/tagged/loic-remy">Loic REMY</a></div>
+<!--end of tag section 4--> <!--start of tag section 5-->
+<div class="group"><!--tag header-->Manager +team</div>
+<div class="tag"><a href="/tagged/jose-mourinho">Jose MOURINHO</a> &gt; <a href="/tagged/rui-faria">Rui FARIA</a> &gt; <a href="/tagged/steve-holland">Steve HOLLAND</a> &gt; <a href="/tagged/silvino-louro">Silvino LOURO</a> &gt; <a href="/tagged/eva-carneiro">Eva Carneiro</a> &gt;</div>
+<!--end of tag section 5-->
+<div class="group"><!--tag header-->other things</div>
+<div class="tag"><a href="/tagged/stamford-bridge">Stamford Bridge</a> &gt; <a href="/tagged/fans">Fans</a> &gt; <a href="/tagged/koe">Kings Of Europe</a> &gt; <a href="/tagged/cl">Champions League</a> &gt; <a href="/tagged/epl">English Premier League</a> <a href="/tagged/legends">Legends</a> &gt; <a href="/tagged/quote">Quotes</a></div>
+</div>
+</div>
+</div>
+<!--end of tags section-->
+<p></p>

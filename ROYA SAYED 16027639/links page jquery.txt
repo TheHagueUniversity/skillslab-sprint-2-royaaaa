@@ -1,0 +1,20 @@
+
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7/jquery.min.js" type="text/javascript"></script>
+<script src="http://static.tumblr.com/iuw14ew/VSQma1786/jquery.style-my-tooltips.js" type="text/javascript"></script>
+<script type="text/javascript">// <![CDATA[
+(function($){ $(document).ready(function(){ $("[title],a[title],img[title]").style_my_tooltips({ tip_follows_cursor:true, tip_delay_time:100, tip_fade_speed:300, attribute:"title" }); }); })(jQuery);
+// ]]></script>
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.4/jquery.min.js" type="text/javascript"></script>
+<script src="http://static.tumblr.com/heqtwlw/ftAn7cy1u/jquery.scrollto-1.4.2-min.js" type="text/javascript"></script>
+<script src="http://static.tumblr.com/heqtwlw/FJXn7cy1b/jquery.localscroll-1.2.7-min.js" type="text/javascript"></script>
+<script type="text/javascript">// <![CDATA[
+$(document).ready(function () {  
+$.localScroll();       
+});
+// ]]></script>
+
+
+linkspage font credit 
+
+<link href='http://fonts.googleapis.com/css?family=Lato:400,900' rel='stylesheet' type='text/css'>
+<link href='http://fonts.googleapis.com/css?family=Roboto' rel='stylesheet' type='text/css'>

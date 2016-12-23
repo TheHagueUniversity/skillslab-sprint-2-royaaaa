@@ -1,0 +1,223 @@
+(link: http://stamford-bridge.tumblr.com/faq)
+
+
+<!DOCTYPE html>
+
+<!---------------
+
+
+
+
+simple theme listing Frequently asked questions
+        
+        ---------------->
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+
+<title>{Title}</title>
+
+    <meta charset="utf-8">
+        
+    <meta name="description" content="{MetaDescription}" />
+    
+    <link rel="shortcut icon" href="{Favicon}" />
+    <link rel="alternate" type="application/rss+xml" href="{RSS}"/>
+
+<link href='http://fonts.googleapis.com/css?family=Roboto+Condensed' rel='stylesheet' type='text/css'>
+
+<link href='http://fonts.googleapis.com/css?family=Lato:300,400,700,300italic,400italic' rel='stylesheet' type='text/css'>
+
+<link href='http://fonts.googleapis.com/css?family=Raleway:400,700,800,900,500' rel='stylesheet' type='text/css'>
+
+<link href='http://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic' rel='stylesheet' type='text/css'>
+
+
+</head>
+<style type="text/css">
+body {
+    margin: 0px;
+    list-style: none;
+    background-color: #FFFFFF;
+    background-attachment: fixed;
+    font-family: 'Lato', sans-serif;
+    font-size: 10px;
+    color: #877b76;
+    
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+b,strong {
+    color: #ff00ea;
+}
+
+i,em {
+    color: #202020;
+}
+
+::-webkit-scrollbar-thumb:vertical {
+    background-color: #202020;
+    height: 10px;
+    border-bottom: 2px solid #FFFFF;
+    border-top: 2px solid #FFFFFF;
+    }
+::-webkit-scrollbar-thumb:horizontal {
+    background-color: #202020;
+    height: 7px!important;
+    }
+::-webkit-scrollbar {
+    background-color: #FFFFFF;
+    height: 8px;
+    width: 12px;
+    }
+::-webkit-scrollbar-button:start:decrement, ::-webkit-scrollbar-button:end:increment{
+    display:block; 
+    height:15px;
+    width: 12px;
+    background-color: #202020;
+    }
+
+#content {
+    margin: auto;
+    width: 1000px;
+    margin-top: 100px;
+    height: 500px;
+}
+
+#faq {
+    float: left;
+    display: inline-block;
+    width: 400px;
+    height: 480px;
+    background-color: #fff;
+    background-image:url('');
+    padding: 20px;
+    overflow: auto;
+}
+
+#faq a {
+    color: #ffc000;
+}
+
+#ask {
+    float: right;
+    width: 540px;
+    height: 500px;
+    background-color: #fff;
+    display: inline-block;
+}
+
+.heading {
+    font-family: 'Raleway';
+    font-weight: 400;
+    color: #00a2de;
+    text-align: left;
+    font-size: 16px;
+    text-transform: uppercase;
+    letter-spacing: -1px;
+}
+
+.answer {
+    font-size: 12px;
+    color: #808080;
+    margin-bottom: 20px;
+    text-align: justify;
+}
+
+#ask img {
+    display: block;
+    width: 540px;
+    height: 240px;
+    background-color: #fff;
+}
+
+.links {
+    width: 100%;
+    height: auto;
+    padding-top: 40px;
+    text-align: center;
+    margin: auto;
+}
+
+.links a {
+    margin: 10px;
+    color: #00a2de;
+    text-transform: uppercase;
+    font-size: 10px;
+    font-family: 'raleway';
+}
+
+.links a:hover {
+    color: #ff00ea;
+}
+
+#askbox {
+    display: block;
+    width: 500px;
+    padding: 20px;
+    margin: auto;
+    text-align: center;
+    background-color: #fff;
+}
+
+
+</style>
+<body>
+<div id="content">
+
+    <div id="faq">
+    
+    <!------ SECTION ------>
+        <div class="heading">Where did you get the picture from?</div>
+    <div class="answer">If there's no link to the picture then it is probably from either yahoo images or zimbio or just google.</div>
+
+    <!------ SECTION ------>
+        <div class="heading">Can I save a picture?</div>
+    <div class="answer">If the picture is originally posted by one of us then feel free to (don't forget to credit) as long as you <b>don't repost it</b>. If the picture is reblogged then we suggest you contact the rightful owner.</div>
+
+    <!------ SECTION ------>
+        <div class="heading">How do you make your edits</div>
+    <div class="answer">We use Photoshop CS 5 or 6 (roya), there are tons of photoshop blogs that can help you with questions about editing e.g <a href="http://yeahps.tumblr.com/">yeahps</a>. <br> Please do not ask basic edit questions but just look at the photoshop blogs, if you have a question on how to make <b>a specific edit</b> made by one of the owners feel free to ask about it (don't forget to refer to the post)</div>
+
+    <!------ SECTION ------>
+        <div class="heading">When is and where can I (re)watch the match?</div>
+    <div class="answer">Click <a href="http://www.chelseafc.com/content/cfc/en/homepage/matches/2014/09/17.html/">here</a> to see when the next match is, here is a <a href="http://www.firstrows.eu/">livestream</a> and here you can <a href="http://livefootballvideo.com/fullmatch"> rewatch </a> a match.</div>
+
+    <!------ SECTION ------>
+        <div class="heading">Follow back?</div>
+    <div class="answer">If you actually ask us this question then we suggest you look up to the actual meaning of a <b>sideblog.</b></div>
+
+    <!------ SECTION ------>
+        <div class="heading">Others</div>
+    <div class="answer">Don't send anon hate or you could try whatever makes you feel happy<br> Please try to ask <b>unanonymously</b> <br> Don't ask how many followers we have <br> We are not looking for new members. <br> Don't ask us to check out your blog <br> Use the cfcedit tag to post your edits </div>
+
+
+
+
+    </div>
+
+    <div id="ask">
+    <img src="http://static.tumblr.com/7d07vtl/v6mnc7u32/faq.jpg" />
+<div id="askbox">
+<div class="heading">please check faq first then ask</div><br />
+<iframe frameborder="0" border="0" scrolling="no" width="100%" height="190" allowtransparency="true" src="http://www.tumblr.com/ask_form/stamford-bridge.tumblr.com" style"background-color:transparent; overflow:hidden;"></iframe>
+</div>
+
+    </div>
+
+</div>
+
+<div class="links">
+    <a href="http://stamford-bridge.tumblr.com">back to blog</a>
+    <a href="#">archive</a>
+    <a href="http://stamford-bridge.tumblr.com/submit">submit</a>
+</div>
+
+
+</body>
+</html>

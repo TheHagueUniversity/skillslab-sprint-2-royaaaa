@@ -1,0 +1,1142 @@
+
+<!DOCTYPE html><script>var __pbpa = true;</script><script>var translated_warning_string = 'Warning: Never enter your Tumblr password unless \u201chttps://www.tumblr.com/login\u201d\x0ais the address in your web browser.\x0a\x0aYou should also see a green \u201cTumblr, Inc.\u201d identification in the address bar.\x0a\x0aSpammers and other bad guys use fake forms to steal passwords.\x0a\x0aTumblr will never ask you to log in from a user\u2019s blog.\x0a\x0aAre you absolutely sure you want to continue?';</script><script type="text/javascript" language="javascript" src="http://assets.tumblr.com/assets/scripts/pre_tumblelog.js?_v=7f6772238e1748fa255bd191b4985d65"></script><!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# blog: http://ogp.me/ns/blog#">
+
+<!--
+
+        
+        
+           
+                        milk theme by selkas
+                        http://selkas.tumblr.com
+            
+
+
+
+-->
+
+    <title>Chelsea Football Club</title>
+    <style>figure{margin:0}.tmblr-iframe{position:absolute}.tmblr-iframe.hide{display:none}</style><link rel="alternate" type="application/rss+xml" href="http://stamford-bridge.tumblr.com/rss"/>
+    <link rel="shortcut icon" href="http://68.media.tumblr.com/avatar_8d9a8da25a8a_128.png"/>
+    
+    <meta name="description" content="Hello, welcome to Stamford-Bridge. This is a blog purely dedicated to the four time [and current 2014/15] Barclays Premier League Champions Chelsea Football Club. Run by Roya, Niky and Lauren" />
+    
+    <meta name="image:background" content=""/>
+    <meta name="image:header 1" content=""/>
+    <meta name="image:header 2" content=""/>
+    <meta name="image:header 3" content=""/>
+    <meta name="image:header 4" content=""/>
+    <meta name="image:header 5" content=""/>
+    <meta name="image:header 6" content=""/>
+    <meta name="image:header 7" content=""/>
+    <meta name="image:header 8" content=""/>
+    <meta name="image:header 9" content=""/>
+    <meta name="image:header 10" content=""/>
+    <meta name="color:background" content="#f9f9f9"/>
+    <meta name="color:container bg" content="#ffffff"/>
+    <meta name="color:post border" content="#f0f0f0"/>
+    <meta name="color:post bg" content="#f9f9f9"/>
+    <meta name="color:text" content="#8f8f8f"/>
+    <meta name="color:bold" content="#8f8f8f"/>
+    <meta name="color:blockquote border" content="#ededed"/>
+    <meta name="color:link" content="#79a2c9"/>
+    <meta name="color:link hover" content="#8f8f8f"/>
+    <meta name="color:post info" content="#bebebe"/>
+    <meta name="color:scrollbar" content="#bebebe"/>
+    <meta name="if:fixed header" content="1"/>
+    <meta name="if:show captions" content="1"/>
+    <meta name="if:show tags" content="1"/>
+    <meta name="if:tile background" content="1"/>
+    <meta name="text:link 1" content=""/>
+    <meta name="text:link 1 url" content=""/>
+    <meta name="text:link 2" content=""/>
+    <meta name="text:link 2 url" content=""/>
+    <meta name="text:link 3" content=""/>
+    <meta name="text:link 3 url" content=""/>
+    <meta name="text:link 4" content=""/>
+    <meta name="text:link 4 url" content=""/>
+    <meta name="text:link 5" content=""/>
+    <meta name="text:link 5 url" content=""/>
+    <meta name="text:link 6" content=""/>
+    <meta name="text:link 6 url" content=""/>
+    <meta name="text:link 7" content=""/>
+    <meta name="text:link 7 url" content=""/>
+    <meta name="text:link 8" content=""/>
+    <meta name="text:link 8 url" content=""/>
+    <meta name="text:link 9" content=""/>
+    <meta name="text:link 9 url" content=""/>
+    <meta name="text:link 10" content=""/>
+    <meta name="text:link 10 url" content=""/>
+    
+    <link href='//fonts.googleapis.com/css?family=Open+Sans:300,400,700,400italic,700italic|Inconsolata:400,700' rel='stylesheet' type='text/css'>
+
+<style type="text/css">
+
+/* basic styles */
+
+::-webkit-scrollbar {
+    width:3px;
+    height:3px;
+}
+::-webkit-scrollbar,
+::-webkit-scrollbar-track {
+    background-color:inherit;
+}
+::-webkit-scrollbar-thumb {
+    background-color:#bebebe;
+}
+body {
+    margin:0px;
+    font-family:'open sans', 'helvetica neue', arial, sans-serif;
+    font-size:10px;
+    line-height:1.7em;
+    word-wrap:break-word;
+    letter-spacing:0px;
+    -moz-font-smoothing:subpixel-antialiased;
+    -webkit-font-smoothing:subpixel-antialiased;
+    font-smoothing:subpixel-antialiased;
+    color:#8f8f8f;
+    background-color:#f9f9f9;
+    background-attachment:fixed;
+    
+    
+}
+blockquote, ol, ul, p, pre {
+    margin-top:.7em;
+    margin-bottom:.7em;
+}
+blockquote {
+    margin-left:2em;
+    padding:.2em .2em .2em 1.3em;
+    border-left:2px solid #ededed;
+    margin-right:0px;
+}
+pre {
+    white-space:normal;
+    font-family:'inconsolata', consolas, 'courier new', monospace;
+    letter-spacing:0px;
+}
+img {
+    border:0px;
+}
+a {
+    color:inherit;
+    font-style:normal;
+    text-decoration:none;
+    -webkit-transition:all .2s linear;
+    transition:all .2s linear;
+}
+ol, ul {
+    padding-left:2.75em;
+}
+b, strong {
+    font-weight:bold;
+    color:#8f8f8f;
+}
+small, sub {
+    font-size:1em;
+    vertical-align:baseline;
+}
+h1, h2, h3, h4, h5, h6 {
+    font-size:1em;
+    font-weight:normal;
+    font-family:'inconsolata', consolas, 'courier new', monospace;
+}
+
+/* container */
+
+#main {
+    margin:0px auto;
+    width:806px;
+    font-size:0;
+    padding:0 75px;
+    background-color:#ffffff;
+}
+#main > * {
+    font-size:11px;
+}
+
+/* header */
+
+header {
+    position:relative;
+    margin:0px -75px 75px;
+    height:478px;
+    border-top:60px solid #000;
+    background-color:#000;
+}
+header .slides {
+    height:478px;
+    overflow:hidden;
+}
+header .slides ul,
+header .slides ul li {
+    list-style-type:none;
+    margin:0;
+    padding:0;
+    height:100%;
+}
+header .slides div, .bjqs {
+    background-size:cover;
+    background-position:center;
+    background-attachment:scroll;
+    width:100%;
+    height:100%;
+}
+
+/* navigation */
+
+nav {
+    position:fixed;
+    
+    top:0;
+    left:50%;
+    margin-left:-478px;
+    width:956px;
+    z-index:10;
+    font-weight:300;
+    letter-spacing:1px;
+    font-size:0px!important;
+    text-transform:uppercase;
+    line-height:10px;
+    text-align:center;
+    color:#fff;
+    background-color:rgba(0,0,0,.8);
+}
+nav ol {
+    list-style-type:none;
+    padding-left:0;
+    margin:0;
+}
+nav ol li {
+    display:inline-block;
+    position:relative;
+    margin:0 1px;
+}
+nav ol li a:hover {
+    border-color:#fff;
+}
+nav ol li a {
+    font-size:9px;
+    display:inline-block;
+    vertical-align:middle;
+    width:75px;
+    padding:24px 11px 24px 12px;
+    border-bottom:2px solid transparent;
+}
+nav ol #title a {
+    width:auto;
+    letter-spacing:4px;
+    padding:12px 20px 12px 24px;
+    font-size:20px;
+    border:0;
+}
+nav .tab {
+    visibility:hidden;
+    opacity:0;
+    margin:0;
+    position:absolute;
+    top:100%;
+    left:0;
+    width:94px;
+    text-align:center;
+    -webkit-transition:visibility 0s linear .25s, opacity .25s linear;
+    transition:visibility 0s linear .25s, opacity .25s linear;
+}
+nav ol li:hover .tab,
+nav .tab:hover {
+    visibility:visible;
+    opacity:1;
+    -webkit-transition-delay:0s;
+    transition-delay:0s;
+}
+nav .tab li {
+    margin:0;
+    display:block;
+}
+nav .tab li a {
+    display:block;
+    margin:0;
+    background-color:rgba(0,0,0,.8);
+    border:0;
+    opacity:.8;
+    padding:12px 11px 12px 12px;
+    width:75px;
+}
+nav .tab li a:hover {
+    background-color:#79a2c9;
+    color:#fff;
+    opacity:1;
+}
+nav .fa {
+    float:right;
+    font-size:1.2em;
+    line-height:1em;
+}
+
+/* sidebar */
+
+aside {
+    display:inline-block;
+    vertical-align:top;
+    width:225px;
+    margin:0px 75px 75px 0px;
+}
+aside section {
+    font-size:10px;
+    line-height:1.7em;
+    margin-bottom:37px;
+    border:1px solid #f0f0f0;
+}
+aside h1 {
+    margin:0;
+    padding:14px;
+    font-size:1.25em;
+    line-height:1em;
+    border-bottom:1px solid #f0f0f0;
+}
+aside .text {
+    margin:2px;
+    padding:12px;
+    background-color:#f9f9f9;
+    line-height:1.5em;
+}
+aside .text *:first-child {
+    margin-top:0;
+}
+aside .text *:last-child {
+    margin-bottom:0;
+}
+aside .schedule {
+    width:219px;
+    padding:6px;
+    border-spacing:0;
+}
+aside .schedule td {
+    vertical-align:baseline;
+    padding:6px;
+    line-height:initial;
+    text-transform:uppercase;
+    border-bottom:1px solid #f0f0f0;
+}
+aside .schedule tr:last-child td {
+    border-bottom:0;
+}
+aside .schedule .date {
+    width:1px;
+    font-family:'inconsolata', consolas, 'courier new', monospace;
+    font-size:10px;
+    border-color:#8f8f8f;
+}
+aside .schedule .details {
+    font-size:8px;
+    padding-left:8px;
+    letter-spacing:1px;
+    color:#bebebe;
+}
+aside .official {
+    font-size:0;
+}
+aside .official a {
+    font-size:10px;
+    line-height:1em;
+    padding:6px;
+    font-family:'inconsolata', consolas, 'courier new', monospace;
+    display:inline-block;
+    vertical-align:middle;
+    width:85px;
+}
+aside .official a:hover {
+    text-decoration:underline;
+}
+aside .search {
+    position:relative;
+    padding:2px;
+    line-height:10px;
+}
+aside .search .query {
+    width:100%;
+    -moz-box-sizing:border-box;
+    box-sizing:border-box;
+    border:0px;
+    outline:0px;
+    padding:8px;
+    font-size:10px;
+    font-family:'inconsolata', consolas, 'courier new', monospace;
+    color:inherit;
+    background-color:#f9f9f9
+}
+
+/* posts */
+
+#content {
+    display:inline-block;
+    vertical-align:top;
+    width:500px;
+}
+.entry {
+    margin-bottom:75px;
+    position:relative;
+    border:1px solid #f0f0f0;
+}
+.post {
+    position:relative;
+}
+.post img {
+    max-width:100%;
+    height:auto;
+}
+
+/* post info */ 
+
+.info {
+    position:relative;
+    width:100%;
+    margin-top:2px;
+    border-spacing:0;
+    text-align:right;
+    letter-spacing:1px;
+    font-size:8px;
+    text-transform:uppercase;
+    line-height:1.5em;
+    padding:12px;
+    color:#bebebe;
+    border-top:1px solid #f0f0f0;
+}
+.info .t,
+.info .p {
+    vertical-align:top;
+    min-width:125px;
+}
+.info a:hover {
+    color:#8f8f8f;
+}
+.info .p a {
+    font-family:'inconsolata', consolas, 'courier new', monospace;
+    font-size:9px;
+    line-height:1em;
+    vertical-align:1px;
+    display:inline-block;
+}
+.info .permalink {
+    text-decoration:underline;
+}
+.info .count {
+    margin-left:.5em;
+}
+.buttons {
+    position:absolute;
+    top:0;
+    left:100%;
+    padding:12px;
+    font-size:0;
+    line-height:0;
+}
+.reblog_button,
+.like_button {
+    margin:0;
+    opacity:0;
+    position:relative;
+    display:inline-block;
+    -webkit-transform:scale(.67,.67);
+    transform:scale(.67,.67);
+    -webkit-transition:opacity .25s linear 0s;
+    transition:opacity .25s linear 0s;
+}
+.entry:hover .reblog_button,
+.entry:hover .like_button {
+    opacity:.8;
+}
+.entry:hover .like_button {
+    transition-delay:.25s;
+}
+.like_button {
+    position:absolute;
+    left:12px;
+    top:30px;
+}
+.reblog_button {
+    margin-right:22px;
+}
+.tagged {
+    text-align:left;
+    
+}
+.tagged a {
+    margin-right:.7em;
+}
+
+/* post titles */
+
+.post > h1,
+.quote {
+    margin:0;
+    font-size:1.5em;
+    line-height:initial;
+    padding:12px;
+    border-bottom:1px solid #f0f0f0;
+}
+.question {
+    font-size:10px;
+    line-height:1.5em;
+    letter-spacing:1px;
+    padding:17px;
+    font-family:'inconsolata', consolas, 'courier new', monospace;
+    text-transform:uppercase;
+    color:#bebebe;
+    border-bottom:1px solid #f0f0f0;
+}
+.question i {
+    font-style:inherit;
+    margin-right:.3em;
+}
+.question i a {
+    color:#79a2c9;
+    text-decoration:underline;
+}
+.question i a:hover {
+    color:#8f8f8f;
+}
+
+/* text and captions */
+
+.caption,
+.body,
+.source,
+.cont {
+    margin:2px;
+    padding:17px;
+    background-color:#f9f9f9;
+}
+.caption a,
+.body a,
+.source a {
+    color:#79a2c9;
+    font-family:'inconsolata', consolas, 'courier new', monospace;
+    text-decoration:underline;
+    vertical-align:1px;
+}
+.caption a:hover,
+.body a:hover,
+.source a:hover {
+    color:#8f8f8f;
+}
+.caption *:first-child,
+.body *:first-child,
+.source *:first-child {
+    margin-top:0px;
+}
+.caption *:last-child,
+.body *:last-child,
+.source *:last-child {
+    margin-bottom:0px;
+}
+.caption {
+    font-size:10px;
+    line-height:1.7em;
+    
+}
+.caption .caption {
+    border:0;
+    margin:0;
+    padding:0;
+}
+.source {
+    text-align:right;
+}
+
+/* photos and videos */
+
+.media {
+    margin:2px;
+}
+.media img,
+.media .photoset {
+    display:block;
+    max-width:100%;
+    margin:0px auto;
+}
+.video #youtube_iframe {
+    display:block;
+    max-width:100%;
+    max-height:calc(px * 0.67);
+}
+.video iframe,
+.tumblr_video_container {
+    display:block;
+    max-width:100%;
+    max-height:px;
+}
+
+/* chat posts */
+
+.chat {
+    display:table;
+    font-size:10px;
+    line-height:1.7em;
+    border-spacing:0;
+    -moz-box-sizing:border-box;
+    box-sizing:border-box;
+    width:500px;
+}
+.chat .line {
+    display:table-row;
+}
+.chat .label {
+    letter-spacing:1px;
+    font-size:9px;
+    font-family:'inconsolata', consolas, 'courier new', monospace;
+    text-transform:uppercase;
+    color:#8f8f8f;
+    display:table-cell;
+}
+
+/* audio posts */
+
+.audiowrap {
+    position:relative;
+    height:107px;
+    padding:2px 2px 0;
+    overflow:hidden;
+}
+.albumart {
+    position:relative;
+    display:inline-block;
+    width:107px;
+    height:107px;
+    background-size:cover;
+}
+.audio {
+    position:absolute;
+    display:inline-block;
+    left:2px;
+    top:2px;
+    right:2px;
+    bottom:2px;
+}
+.audio .player {
+    width:27px;
+    height:27px;
+    left:40px;
+    top:40px;
+    overflow:hidden;
+    position:absolute;
+}
+.audio .track {
+    height:45px;
+    top:0px;
+    left:109px;
+    bottom:0px;
+    right:0px;
+    padding:31px;
+    font-size:9px;
+    font-family:'inconsolata', consolas, 'courier new', monospace;
+    text-transform:uppercase;
+    letter-spacing:1px;
+    position:absolute;
+    overflow:hidden;
+    color:#bebebe;
+    background-color:#f9f9f9;
+}
+
+/* post notes */
+
+.notes {
+    padding-left:2em;
+    margin:0;
+    font-family:'inconsolata', consolas, 'courier new', monospace;
+    font-size:10px;
+}
+.post .notes a {
+    border:0;
+    text-decoration:none;
+    color:inherit;
+}
+.post .notes a:hover {
+    text-decoration:underline;
+}
+.notes img {
+    display:none;
+}
+li blockquote {
+    margin-bottom:.7em!important;
+}
+
+/* pagination */
+
+.pagination {
+    margin:75px 0;
+    text-align:center;
+}
+.pagination a,
+.pagination .current {
+    display:inline-block;
+    vertical-align:top;
+    position:relative;
+    padding:12px 16px 12px 17px;
+    margin:0 -1px 0 0;
+    font-size:8px;
+    letter-spacing:1px;
+    text-transform:uppercase;
+    color:#bebebe;
+    border:1px solid #f0f0f0;
+}
+.pagination a i {
+    line-height:10px;
+    font-size:12px;
+}
+.pagination a:hover {
+    z-index:1;
+    color:#8f8f8f;
+    background-color:#f9f9f9;
+}
+
+#theme {
+    position:fixed;
+    bottom:10px;
+    right:10px;
+    display:inline-block;
+    padding:5px;
+    font:8px/5px 'helvetica neue', arial, sans-serif;
+    letter-spacing:0;
+    text-transform:none;
+    background-color:white;
+    color:#4f4f4f;
+}
+#infscr-loading {
+    display:none!important;
+}
+#tumblr_controls {
+    -webkit-filter:invert(100%);
+    -webkit-backface-visibility:hidden;
+    opacity:.5!important;
+    width:auto!important;
+}
+#vignette,
+#tumblr_lightbox_left_image,
+#tumblr_lightbox_right_image,
+#tumblr_lightbox_caption {
+    visibility:hidden;
+}
+#tumblr_lightbox {
+    background-color:rgba(255,255,255,.67)!important;
+}
+#tumblr_lightbox img {
+    border-radius:0!important;
+    -webkit-box-shadow:none!important;
+    box-shadow:none!important;
+}
+
+/* basic jquery slider */
+
+ul.bjqs{position:relative; list-style:none;padding:0;margin:0;overflow:hidden; display:none;}
+li.bjqs-slide{position:absolute; display:none;}
+ul.bjqs-controls{list-style:none;margin:0;padding:0;z-index:9999;opacity:0;-webkit-transition:opacity .2s linear;transition:opacity .2s linear;}
+header:hover .bjqs-controls {
+    opacity:1;
+}
+ul.bjqs-controls.v-centered li a{
+    position:absolute;
+    padding:10px 15px;
+    color:white;
+    text-shadow:0px 1px 0px #111;
+    font-size:25px;
+}
+ul.bjqs-controls.v-centered li.bjqs-next a{right:0;}
+ul.bjqs-controls.v-centered li.bjqs-prev a{left:0;}
+ol.bjqs-markers{list-style: none; padding: 0; margin: 0; width:100%; display:none;}
+ol.bjqs-markers.h-centered{text-align: center;}
+ol.bjqs-markers li{display:inline;}
+ol.bjqs-markers li a{display:inline-block;}
+p.bjqs-caption{display:block;width:96%;margin:0;padding:2%;position:absolute;bottom:0;}
+</style>
+<link rel="alternate" href="android-app://com.tumblr/tumblr/x-callback-url/blog?blogName=stamford-bridge" /><link rel="alternate" href="ios-app://305343404/tumblr/x-callback-url/blog?blogName=stamford-bridge" /><script src="http://assets.tumblr.com/assets/scripts/tumblelog_post_message_queue.js?_v=ae06d1ab69efc6f29297bf2b7a4160af"></script><link rel="stylesheet" type="text/css" href="http://assets.tumblr.com/fonts/avalon/stylesheet.css?v=1"><meta name="keywords" content="epl,diego costa,chelsea fc,cesar azpilicueta,antonio conte" /><!-- BEGIN TUMBLR FACEBOOK OPENGRAPH TAGS --><!-- If you'd like to specify your own Open Graph tags, define the og:url and og:title tags in your theme's HTML. --><!-- Read more: http://ogp.me/ --><meta property="fb:app_id" content="48119224995" /><meta property="og:title" content="Chelsea Football Club" /><meta property="og:url" content="http://stamford-bridge.tumblr.com/?og=1" /><meta property="og:description" content="Hello, welcome to Stamford-Bridge. This is a blog purely dedicated to the four time [and current..." /><meta property="og:type" content="tumblr-feed:tumblelog" /><meta property="og:image" content="http://68.media.tumblr.com/avatar_8d9a8da25a8a_128.png" /><meta property="al:ios:url" content="tumblr://x-callback-url/blog?blogName=stamford-bridge" /><meta property="al:ios:app_name" content="Tumblr" /><meta property="al:ios:app_store_id" content="305343404" /><meta property="al:android:url" content="tumblr://x-callback-url/blog?blogName=stamford-bridge" /><meta property="al:android:app_name" content="Tumblr" /><meta property="al:android:package" content="com.tumblr" /><!-- END TUMBLR FACEBOOK OPENGRAPH TAGS --><!-- TWITTER TAGS --><meta charset="utf-8"><meta name="twitter:site" content="tumblr" /><meta name="twitter:card" content="app" /><meta name="twitter:description" content="stamford-bridge" /><meta name="twitter:title" content="stamford-bridge" /><meta name="twitter:app:name:iphone" content="Tumblr" /><meta name="twitter:app:name:ipad" content="Tumblr" /><meta name="twitter:app:name:googleplay" content="Tumblr" /><meta name="twitter:app:id:iphone" content="305343404" /><meta name="twitter:app:id:ipad" content="305343404" /><meta name="twitter:app:id:googleplay" content="com.tumblr" /><meta name="twitter:app:url:iphone" content="tumblr://x-callback-url/blog?blogName=stamford-bridge&amp;referrer=twitter-cards" /><meta name="twitter:app:url:ipad" content="tumblr://x-callback-url/blog?blogName=stamford-bridge&amp;referrer=twitter-cards" /><meta name="twitter:app:url:googleplay" content="tumblr://x-callback-url/blog?blogName=stamford-bridge&amp;referrer=twitter-cards" /><!-- GOOGLE CAROUSEL --><script type="application/ld+json">
+	{"@type":"ItemList","url":"http:\/\/stamford-bridge.tumblr.com","itemListElement":[{"@type":"ListItem","position":1,"url":"http:\/\/stamford-bridge.tumblr.com\/post\/154857919788\/ilovechelseafc-chelsea-fc-visit-the-chelsea"},{"@type":"ListItem","position":2,"url":"http:\/\/stamford-bridge.tumblr.com\/post\/154723902842\/mindyskalingeden-hazard-in-the-chelsea-christmas"},{"@type":"ListItem","position":3,"url":"http:\/\/stamford-bridge.tumblr.com\/post\/154676250223\/cescs-happy-birthday-gary-cahill"},{"@type":"ListItem","position":4,"url":"http:\/\/stamford-bridge.tumblr.com\/post\/154643455752"},{"@type":"ListItem","position":5,"url":"http:\/\/stamford-bridge.tumblr.com\/post\/154630528873\/edenhazarddd-crystal-palace-0-1-chelsea"},{"@type":"ListItem","position":6,"url":"http:\/\/stamford-bridge.tumblr.com\/post\/154591690849\/cescs-azpilicueta-is-a-really-important-player"},{"@type":"ListItem","position":7,"url":"http:\/\/stamford-bridge.tumblr.com\/post\/154590194778"},{"@type":"ListItem","position":8,"url":"http:\/\/stamford-bridge.tumblr.com\/post\/154588957503\/antonios-name-is-being-sung-throughout-the"},{"@type":"ListItem","position":9,"url":"http:\/\/stamford-bridge.tumblr.com\/post\/154587613593"},{"@type":"ListItem","position":10,"url":"http:\/\/stamford-bridge.tumblr.com\/post\/154587596033\/chelskiblues-diego-costa-celebrates-his-goal-with"},{"@type":"ListItem","position":11,"url":"http:\/\/stamford-bridge.tumblr.com\/post\/154344349153\/this-man-doesnt-always-get-the-credit-he"},{"@type":"ListItem","position":12,"url":"http:\/\/stamford-bridge.tumblr.com\/post\/154343983623\/hahzard-premier-leagues-current-top-scorer"},{"@type":"ListItem","position":13,"url":"http:\/\/stamford-bridge.tumblr.com\/post\/154343080778\/edenhazarddd-chelsea-1-0-west-brom"},{"@type":"ListItem","position":14,"url":"http:\/\/stamford-bridge.tumblr.com\/post\/154343050898"}],"@context":"http:\/\/schema.org"}</script><link rel="canonical" href="http://stamford-bridge.tumblr.com" /></head>
+<body>
+<div id="main"><!-- container -->
+<header>
+<div class="slides">
+<ul class="bjqs">
+    <li><div style="background-image:url(http://static.tumblr.com/a96074ee16fbf6706629fcdfea930993/vk3dkh2/bRqohmaj0/tumblr_static_f0ihym6bltkwsk000kwwg8s8o.png);"></div></li>
+    <li><div style="background-image:url(http://static.tumblr.com/d8dbc3d0b1c63020ba1b11027dd3f77e/vk3dkh2/9pmohmaj2/tumblr_static_b9hjnk5df3co04g4oowgw8cwo.png);"></div></li>
+    
+    
+    
+     
+    
+    
+    
+    
+</ul>
+</div>
+</header>
+<nav>
+    <ol>
+        <li><a href="/archive">archive</a></li>
+        <li><a href="/faq">message</a></li>
+        <li id="title"><a href="/">Chelsea Football Club</a></li>
+        <li><a href="">Links<i class="fa fa-angle-down"></i></a>
+            <ol class="tab">
+            
+            <li><a href="/">links</a></li>
+            <li><a href="/tagged/my_edit">edits</a></li>
+            <li><a href="/tagged/my_gif">gifs</a></li>
+            <li><a href="/tags">tags</a></li>
+            <li><a href="/tagged/champions">champions 14/15</a></li>
+            
+            
+            
+            
+            
+            </ol>
+        </li>
+        <!-- if you don't want to use this as a tab, change this to a normal link. it's just important to keep the same number of links on each side so that the title stays centered -->
+        <li><a href="">Edits<i class="fa fa-angle-down"></i></a>
+            <ol class="tab">
+                <li><a href="/tagged/roya">By Roya</a></li>
+                <li><a href="/tagged/lauren">By Lauren</a></li>
+                <li><a href="/tagged/">By Niky</a></li>
+                <li><a href="/tagged/my_edit">all</a></li>
+            </ol>
+        </li>
+        </ol></nav>
+<aside><!-- sidebar -->
+    <section class="about">
+    <h1>About</h1>
+    <div class="text">Hello, welcome to Stamford-Bridge. <br />
+This is a blog purely dedicated to the four time [and current 2014/15] Barclays Premier League Champions Chelsea Football Club. Run by Roya, Niky and Lauren</div>
+    </section>
+    <section>
+        <h1>Schedule</h1>
+        <table class="text schedule">
+            <tr>
+                <td class="date">11 Dec</td>
+                <td class="details">West Brom (H 12:00)</td>
+            </tr>
+            <tr>
+                <td class="date">14 Dec </td>
+                <td class="details"> v Sunderland (A 19:45)</td>
+            </tr>
+            <tr>
+                <td class="date"> 17 Dec</td>
+                <td class="details">Crystal Palace (A 12:30) </td>
+            </tr>
+            <tr>
+                <td class="date">26 Dec </td>
+                <td class="details">Bournemouth (H 15:00) </td>
+            </tr>
+            <tr>
+                <td class="date">31 Dec </td>
+                <td class="details">Stoke City (H 15:00) </td>
+                </tr>
+                <tr>
+                <td class="date">4 Jan </td>
+                <td class="details"> Tottenham (A 20:00)  </td>
+                </tr>
+        </table>    </section>
+    <section>
+        <h1>Official links</h1>
+        <div class="text official">
+            <a href="http://www.chelseafc.com/matches/fixtures---results.html" class="of">results</a>
+            <a href="http://www.chelseafc.com/news/latest-news.html" class="of">latest news</a>
+            <a href="https://twitter.com/chelseafc" class="of"> twitter</a>
+            <a href="https://instagram.com/chelseafc" class="of"> instagram</a>
+            <a href="http://www.chelseafc.com/the-club/foundation.html" class="of">foundation</a>
+            <a href="http://theblues.chelseafc.com/megastore/shopmap.shtml?portal=RP1UGMCM&base=default.aspx&area=portal=RP1UGMCM~CMP=PSC-RP1UGMCM" class="of">shop</a>
+        </div>
+    </section>
+    <section>
+        <form action="/search" method="get" class="search">
+            <input type="text" name="q" value="" class="query" placeholder="type champions and hit enter"/>
+        </form>
+    </section>
+    <section>
+        <h1>Site info</h1>
+        
+<div class="text">
+<b>Owners:</b>
+<a href="http://-edenhazard.tumblr.com">Roya</a>,
+<a href="http://azpi.tumblr.com">Lauren</a>,
+<a href="http://orestisskarnezis.tumblr.com/">Niky</a>
+<br>
+<b>Currently online:</b> <script language="JavaScript"> 
+var ref = (''+document.referrer+''); 
+document.write('<script src="http://freehostedscripts.net/ocounter.php?site=ID1861784&e1=fan at the bridge&e2=fans at the bridge&r=' + ref + '"><\/script>');
+</script><br />
+<b>Hits since 20/9/2014:</b> 
+<script language="JavaScript" src="http://freehostedscripts.net/ocount.php?site=ID2704021&name="></script>
+    
+</div>
+    </section>
+</aside>
+<div id="content"><!-- posts -->
+
+<article class="entry">
+<div class="post">
+<!-- photoset --><div class="media"><div id="photoset_154857919788" class="html_photoset">    <iframe id="photoset_iframe_154857919788" class="photoset" scrolling="no" frameborder="0" height="-10" width="100%"style="border:0px; background-color:transparent; overflow:hidden;" src="http://stamford-bridge.tumblr.com/post/154857919788/photoset_iframe/stamford-bridge/tumblr_oikcfdV2j41qee7dx/0/false" name="photoset_iframe_154857919788"></iframe></div></div>
+<div class="nest"><div class="caption"><p><a href="http://ilovechelseafc.tumblr.com/post/154786024619/chelsea-fc-visit-the-chelsea-westminister-hospital" class="tumblr_blog">ilovechelseafc</a>:</p><blockquote><p><sub>Chelsea FC visit the Chelsea Westminister Hospital (<a href="http://t.umblr.com/redirect?z=http%3A%2F%2Fwww.chelseafc.com%2Fnews%2Flatest-news%2F2016%2F12%2Fblues-bring-smiles-with-christmas-visit.html&amp;t=YWVjZDI4NTExZGJiOGViYmZkMjVkMTcwZjY3MGQ1MDFiZmEzYzdmZSxLbDNUbkJzWA%3D%3D&amp;b=t%3ACQlCv7CUlZhA3yJZtzfCtw&amp;p=http%3A%2F%2Fstamford-bridge.tumblr.com%2Fpost%2F154857919788%2Filovechelseafc-chelsea-fc-visit-the-chelsea&amp;m=1">x</a>)</sub></p></blockquote></div></div>
+</div>
+<!-- post info --><table class="info"><tr><td class="t"><div class="tagged"><a href="http://stamford-bridge.tumblr.com/tagged/angels">angels</a> </div></td><td class="p"><a href="http://stamford-bridge.tumblr.com/post/154857919788/ilovechelseafc-chelsea-fc-visit-the-chelsea" class="permalink">1 hour ago</a>&nbsp;<a href="http://stamford-bridge.tumblr.com/post/154857919788/ilovechelseafc-chelsea-fc-visit-the-chelsea" class="count">+36</a></td></tr></table>
+<div class="buttons"><a href="https://www.tumblr.com/reblog/154857919788/Kl3TnBsX" class="reblog_button"style="display: block;width:15px;height:15px;"><svg width="100%" height="100%" viewBox="0 0 21 21" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" fill="#ccc"><path d="M5.01092527,5.99908429 L16.0088498,5.99908429 L16.136,9.508 L20.836,4.752 L16.136,0.083 L16.1360004,3.01110845 L2.09985349,3.01110845 C1.50585349,3.01110845 0.979248041,3.44726568 0.979248041,4.45007306 L0.979248041,10.9999998 L3.98376463,8.30993634 L3.98376463,6.89801007 C3.98376463,6.20867902 4.71892527,5.99908429 5.01092527,5.99908429 Z"></path><path d="M17.1420002,13.2800293 C17.1420002,13.5720293 17.022957,14.0490723 16.730957,14.0490723 L4.92919922,14.0490723 L4.92919922,11 L0.5,15.806 L4.92919922,20.5103758 L5.00469971,16.9990234 L18.9700928,16.9990234 C19.5640928,16.9990234 19.9453125,16.4010001 19.9453125,15.8060001 L19.9453125,9.5324707 L17.142,12.203"></path></svg></a><div class="like_button" data-post-id="154857919788" data-blog-name="stamford-bridge" id="like_button_154857919788"><iframe id="like_iframe_154857919788" src="http://assets.tumblr.com/assets/html/like_iframe.html?_v=399aee1ea58b6007c2190a8138f100e5#name=stamford-bridge&amp;post_id=154857919788&amp;rk=Kl3TnBsX&amp;root_id=154786024619" scrolling="no" width="15" height="15" frameborder="0" class="like_toggle" allowTransparency="true" name="like_iframe_154857919788"></iframe></div></div>
+</article>
+
+<!-- http://ilovechelseafc.tumblr.com/post/154786024619/chelsea-fc-visit-the-chelsea-westminister-hospital http://ilovechelseafc.tumblr.com/post/154786024619/chelsea-fc-visit-the-chelsea-westminister-hospital http://chelseafcdaily.tumblr.com/post/154851421739/ilovechelseafc-chelsea-fc-visit-the-chelsea -->
+
+<article class="entry">
+<div class="post">
+<!-- photoset --><div class="media"><div id="photoset_154723902842" class="html_photoset">    <iframe id="photoset_iframe_154723902842" class="photoset" scrolling="no" frameborder="0" height="-10" width="100%"style="border:0px; background-color:transparent; overflow:hidden;" src="http://stamford-bridge.tumblr.com/post/154723902842/photoset_iframe/stamford-bridge/tumblr_oi8t15QtZs1w0a18m/0/false" name="photoset_iframe_154723902842"></iframe></div></div>
+<div class="nest"><div class="caption"><p><a href="https://mindyskaling.tumblr.com/post/154517426943/eden-hazard-in-the-chelsea-christmas-video-x" class="tumblr_blog">mindyskaling</a>:</p><blockquote><blockquote><small>Eden Hazard in the Chelsea Christmas video [<a href="https://twitter.com/ChelseaFC/status/809452773284532224?lang=en-gb">x</a>] </small></blockquote></blockquote></div></div>
+</div>
+<!-- post info --><table class="info"><tr><td class="t"><div class="tagged"><a href="http://stamford-bridge.tumblr.com/tagged/eden-hazard">eden hazard</a> </div></td><td class="p"><a href="http://stamford-bridge.tumblr.com/post/154723902842/mindyskalingeden-hazard-in-the-chelsea-christmas" class="permalink">3 days ago</a>&nbsp;<a href="http://stamford-bridge.tumblr.com/post/154723902842/mindyskalingeden-hazard-in-the-chelsea-christmas" class="count">+196</a></td></tr></table>
+<div class="buttons"><a href="https://www.tumblr.com/reblog/154723902842/QdAIAuoz" class="reblog_button"style="display: block;width:15px;height:15px;"><svg width="100%" height="100%" viewBox="0 0 21 21" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" fill="#ccc"><path d="M5.01092527,5.99908429 L16.0088498,5.99908429 L16.136,9.508 L20.836,4.752 L16.136,0.083 L16.1360004,3.01110845 L2.09985349,3.01110845 C1.50585349,3.01110845 0.979248041,3.44726568 0.979248041,4.45007306 L0.979248041,10.9999998 L3.98376463,8.30993634 L3.98376463,6.89801007 C3.98376463,6.20867902 4.71892527,5.99908429 5.01092527,5.99908429 Z"></path><path d="M17.1420002,13.2800293 C17.1420002,13.5720293 17.022957,14.0490723 16.730957,14.0490723 L4.92919922,14.0490723 L4.92919922,11 L0.5,15.806 L4.92919922,20.5103758 L5.00469971,16.9990234 L18.9700928,16.9990234 C19.5640928,16.9990234 19.9453125,16.4010001 19.9453125,15.8060001 L19.9453125,9.5324707 L17.142,12.203"></path></svg></a><div class="like_button" data-post-id="154723902842" data-blog-name="stamford-bridge" id="like_button_154723902842"><iframe id="like_iframe_154723902842" src="http://assets.tumblr.com/assets/html/like_iframe.html?_v=399aee1ea58b6007c2190a8138f100e5#name=stamford-bridge&amp;post_id=154723902842&amp;rk=QdAIAuoz&amp;root_id=154517426943" scrolling="no" width="15" height="15" frameborder="0" class="like_toggle" allowTransparency="true" name="like_iframe_154723902842"></iframe></div></div>
+</article>
+
+<!-- https://mindyskaling.tumblr.com/post/154517426943/eden-hazard-in-the-chelsea-christmas-video-x https://mindyskaling.tumblr.com/post/154517426943/eden-hazard-in-the-chelsea-christmas-video-x -->
+
+<article class="entry">
+<div class="post">
+<!-- photoset --><div class="media"><div id="photoset_154676250223" class="html_photoset">    <iframe id="photoset_iframe_154676250223" class="photoset" scrolling="no" frameborder="0" height="-10" width="100%"style="border:0px; background-color:transparent; overflow:hidden;" src="http://stamford-bridge.tumblr.com/post/154676250223/photoset_iframe/stamford-bridge/tumblr_oifi4v0CiB1qh9p3e/0/false" name="photoset_iframe_154676250223"></iframe></div></div>
+<div class="nest"><div class="caption"><p><a href="http://t.umblr.com/redirect?z=http%3A%2F%2Fchelseafc.co.vu%2Fpost%2F154672712469&amp;t=MDk1ZWQ5YjkxNTFlOTNlNTBiZTBkOTAxOGQxMTNkM2M3YmMyZjczMyxUYnVacERmOA%3D%3D&amp;b=t%3ACQlCv7CUlZhA3yJZtzfCtw&amp;p=http%3A%2F%2Fstamford-bridge.tumblr.com%2Fpost%2F154676250223%2Fcescs-happy-birthday-gary-cahill&amp;m=1" class="tumblr_blog">cescs</a>:</p><blockquote><blockquote><p><small><i>Happy Birthday, Gary Cahill.</i></small></p></blockquote></blockquote></div></div>
+</div>
+<!-- post info --><table class="info"><tr><td class="t"><div class="tagged"><a href="http://stamford-bridge.tumblr.com/tagged/gary-cahill">gary cahill</a> </div></td><td class="p"><a href="http://stamford-bridge.tumblr.com/post/154676250223/cescs-happy-birthday-gary-cahill" class="permalink">4 days ago</a>&nbsp;<a href="http://stamford-bridge.tumblr.com/post/154676250223/cescs-happy-birthday-gary-cahill" class="count">+54</a></td></tr></table>
+<div class="buttons"><a href="https://www.tumblr.com/reblog/154676250223/TbuZpDf8" class="reblog_button"style="display: block;width:15px;height:15px;"><svg width="100%" height="100%" viewBox="0 0 21 21" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" fill="#ccc"><path d="M5.01092527,5.99908429 L16.0088498,5.99908429 L16.136,9.508 L20.836,4.752 L16.136,0.083 L16.1360004,3.01110845 L2.09985349,3.01110845 C1.50585349,3.01110845 0.979248041,3.44726568 0.979248041,4.45007306 L0.979248041,10.9999998 L3.98376463,8.30993634 L3.98376463,6.89801007 C3.98376463,6.20867902 4.71892527,5.99908429 5.01092527,5.99908429 Z"></path><path d="M17.1420002,13.2800293 C17.1420002,13.5720293 17.022957,14.0490723 16.730957,14.0490723 L4.92919922,14.0490723 L4.92919922,11 L0.5,15.806 L4.92919922,20.5103758 L5.00469971,16.9990234 L18.9700928,16.9990234 C19.5640928,16.9990234 19.9453125,16.4010001 19.9453125,15.8060001 L19.9453125,9.5324707 L17.142,12.203"></path></svg></a><div class="like_button" data-post-id="154676250223" data-blog-name="stamford-bridge" id="like_button_154676250223"><iframe id="like_iframe_154676250223" src="http://assets.tumblr.com/assets/html/like_iframe.html?_v=399aee1ea58b6007c2190a8138f100e5#name=stamford-bridge&amp;post_id=154676250223&amp;rk=TbuZpDf8&amp;root_id=154672712469" scrolling="no" width="15" height="15" frameborder="0" class="like_toggle" allowTransparency="true" name="like_iframe_154676250223"></iframe></div></div>
+</article>
+
+<!-- http://chelseafc.co.vu/post/154672712469 http://chelseafc.co.vu/post/154672712469 -->
+
+<article class="entry">
+<div class="post">
+<!-- photo --><div class="media"><a href="http://stamford-bridge.tumblr.com/image/154643455752"><img src="http://68.media.tumblr.com/5cc832833c32e20e9772e172cfaf9fb0/tumblr_oiduxezaW01t9ys1ao1_1280.jpg"/></a></div>
+
+</div>
+<!-- post info --><table class="info"><tr><td class="t"><div class="tagged"><a href="http://stamford-bridge.tumblr.com/tagged/epl">epl</a> <a href="http://stamford-bridge.tumblr.com/tagged/cesar-azpilicueta">cesar azpilicueta</a> <a href="http://stamford-bridge.tumblr.com/tagged/diego-costa">diego costa</a> </div></td><td class="p"><a href="http://stamford-bridge.tumblr.com/post/154643455752" class="permalink">4 days ago</a>&nbsp;<a href="http://stamford-bridge.tumblr.com/post/154643455752" class="count">+25</a></td></tr></table>
+<div class="buttons"><a href="https://www.tumblr.com/reblog/154643455752/IQVd41OV" class="reblog_button"style="display: block;width:15px;height:15px;"><svg width="100%" height="100%" viewBox="0 0 21 21" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" fill="#ccc"><path d="M5.01092527,5.99908429 L16.0088498,5.99908429 L16.136,9.508 L20.836,4.752 L16.136,0.083 L16.1360004,3.01110845 L2.09985349,3.01110845 C1.50585349,3.01110845 0.979248041,3.44726568 0.979248041,4.45007306 L0.979248041,10.9999998 L3.98376463,8.30993634 L3.98376463,6.89801007 C3.98376463,6.20867902 4.71892527,5.99908429 5.01092527,5.99908429 Z"></path><path d="M17.1420002,13.2800293 C17.1420002,13.5720293 17.022957,14.0490723 16.730957,14.0490723 L4.92919922,14.0490723 L4.92919922,11 L0.5,15.806 L4.92919922,20.5103758 L5.00469971,16.9990234 L18.9700928,16.9990234 C19.5640928,16.9990234 19.9453125,16.4010001 19.9453125,15.8060001 L19.9453125,9.5324707 L17.142,12.203"></path></svg></a><div class="like_button" data-post-id="154643455752" data-blog-name="stamford-bridge" id="like_button_154643455752"><iframe id="like_iframe_154643455752" src="http://assets.tumblr.com/assets/html/like_iframe.html?_v=399aee1ea58b6007c2190a8138f100e5#name=stamford-bridge&amp;post_id=154643455752&amp;rk=IQVd41OV&amp;root_id=154630646717" scrolling="no" width="15" height="15" frameborder="0" class="like_toggle" allowTransparency="true" name="like_iframe_154643455752"></iframe></div></div>
+</article>
+
+<!-- http://iheartchelseafc.tumblr.com/post/154630646717 http://iheartchelseafc.tumblr.com/post/154630646717 -->
+
+<article class="entry">
+<div class="post">
+<!-- photoset --><div class="media"><div id="photoset_154630528873" class="html_photoset">    <iframe id="photoset_iframe_154630528873" class="photoset" scrolling="no" frameborder="0" height="-10" width="100%"style="border:0px; background-color:transparent; overflow:hidden;" src="http://stamford-bridge.tumblr.com/post/154630528873/photoset_iframe/stamford-bridge/tumblr_oic372dxHO1ri4cgf/0/false" name="photoset_iframe_154630528873"></iframe></div></div>
+<div class="nest"><div class="caption"><p><a href="http://edenhazarddd.tumblr.com/post/154589177114/crystal-palace-0-1-chelsea" class="tumblr_blog">edenhazarddd</a>:</p><blockquote><blockquote><p><i>Crystal Palace 0 - 1 Chelsea</i></p></blockquote></blockquote></div></div>
+</div>
+<!-- post info --><table class="info"><tr><td class="t"><div class="tagged"><a href="http://stamford-bridge.tumblr.com/tagged/epl">epl</a> </div></td><td class="p"><a href="http://stamford-bridge.tumblr.com/post/154630528873/edenhazarddd-crystal-palace-0-1-chelsea" class="permalink">5 days ago</a>&nbsp;<a href="http://stamford-bridge.tumblr.com/post/154630528873/edenhazarddd-crystal-palace-0-1-chelsea" class="count">+94</a></td></tr></table>
+<div class="buttons"><a href="https://www.tumblr.com/reblog/154630528873/Om57t6t0" class="reblog_button"style="display: block;width:15px;height:15px;"><svg width="100%" height="100%" viewBox="0 0 21 21" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" fill="#ccc"><path d="M5.01092527,5.99908429 L16.0088498,5.99908429 L16.136,9.508 L20.836,4.752 L16.136,0.083 L16.1360004,3.01110845 L2.09985349,3.01110845 C1.50585349,3.01110845 0.979248041,3.44726568 0.979248041,4.45007306 L0.979248041,10.9999998 L3.98376463,8.30993634 L3.98376463,6.89801007 C3.98376463,6.20867902 4.71892527,5.99908429 5.01092527,5.99908429 Z"></path><path d="M17.1420002,13.2800293 C17.1420002,13.5720293 17.022957,14.0490723 16.730957,14.0490723 L4.92919922,14.0490723 L4.92919922,11 L0.5,15.806 L4.92919922,20.5103758 L5.00469971,16.9990234 L18.9700928,16.9990234 C19.5640928,16.9990234 19.9453125,16.4010001 19.9453125,15.8060001 L19.9453125,9.5324707 L17.142,12.203"></path></svg></a><div class="like_button" data-post-id="154630528873" data-blog-name="stamford-bridge" id="like_button_154630528873"><iframe id="like_iframe_154630528873" src="http://assets.tumblr.com/assets/html/like_iframe.html?_v=399aee1ea58b6007c2190a8138f100e5#name=stamford-bridge&amp;post_id=154630528873&amp;rk=Om57t6t0&amp;root_id=154589177114" scrolling="no" width="15" height="15" frameborder="0" class="like_toggle" allowTransparency="true" name="like_iframe_154630528873"></iframe></div></div>
+</article>
+
+<!-- http://edenhazarddd.tumblr.com/post/154589177114/crystal-palace-0-1-chelsea http://edenhazarddd.tumblr.com/post/154589177114/crystal-palace-0-1-chelsea -->
+
+<article class="entry">
+<div class="post">
+<!-- photoset --><div class="media"><div id="photoset_154591690849" class="html_photoset">    <iframe id="photoset_iframe_154591690849" class="photoset" scrolling="no" frameborder="0" height="-10" width="100%"style="border:0px; background-color:transparent; overflow:hidden;" src="http://stamford-bridge.tumblr.com/post/154591690849/photoset_iframe/stamford-bridge/tumblr_oi749180qk1qh9p3e/0/false" name="photoset_iframe_154591690849"></iframe></div></div>
+<div class="nest"><div class="caption"><p><a href="http://t.umblr.com/redirect?z=http%3A%2F%2Fchelseafc.co.vu%2Fpost%2F154480174459&amp;t=MWUzYTdmMmY2ZWFmNDY1ZDMzODYxZjA3NjYxNjcwNDAwNzNhYWY1Nyw5TGhmRVdydg%3D%3D&amp;b=t%3ACQlCv7CUlZhA3yJZtzfCtw&amp;p=http%3A%2F%2Fstamford-bridge.tumblr.com%2Fpost%2F154591690849%2Fcescs-azpilicueta-is-a-really-important-player&amp;m=1" class="tumblr_blog">cescs</a>:</p><blockquote><blockquote><p><small><i>&ldquo;Azpilicueta is a really important player for us. I think, in the future, he can stay here for many years and become also a legend for Chelsea&rdquo; Antonio Conte</i></small></p></blockquote></blockquote></div></div>
+</div>
+<!-- post info --><table class="info"><tr><td class="t"><div class="tagged"><a href="http://stamford-bridge.tumblr.com/tagged/sunshine">sunshine</a> <a href="http://stamford-bridge.tumblr.com/tagged/cesar-azpilicueta">cesar azpilicueta</a> </div></td><td class="p"><a href="http://stamford-bridge.tumblr.com/post/154591690849/cescs-azpilicueta-is-a-really-important-player" class="permalink">6 days ago</a>&nbsp;<a href="http://stamford-bridge.tumblr.com/post/154591690849/cescs-azpilicueta-is-a-really-important-player" class="count">+73</a></td></tr></table>
+<div class="buttons"><a href="https://www.tumblr.com/reblog/154591690849/9LhfEWrv" class="reblog_button"style="display: block;width:15px;height:15px;"><svg width="100%" height="100%" viewBox="0 0 21 21" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" fill="#ccc"><path d="M5.01092527,5.99908429 L16.0088498,5.99908429 L16.136,9.508 L20.836,4.752 L16.136,0.083 L16.1360004,3.01110845 L2.09985349,3.01110845 C1.50585349,3.01110845 0.979248041,3.44726568 0.979248041,4.45007306 L0.979248041,10.9999998 L3.98376463,8.30993634 L3.98376463,6.89801007 C3.98376463,6.20867902 4.71892527,5.99908429 5.01092527,5.99908429 Z"></path><path d="M17.1420002,13.2800293 C17.1420002,13.5720293 17.022957,14.0490723 16.730957,14.0490723 L4.92919922,14.0490723 L4.92919922,11 L0.5,15.806 L4.92919922,20.5103758 L5.00469971,16.9990234 L18.9700928,16.9990234 C19.5640928,16.9990234 19.9453125,16.4010001 19.9453125,15.8060001 L19.9453125,9.5324707 L17.142,12.203"></path></svg></a><div class="like_button" data-post-id="154591690849" data-blog-name="stamford-bridge" id="like_button_154591690849"><iframe id="like_iframe_154591690849" src="http://assets.tumblr.com/assets/html/like_iframe.html?_v=399aee1ea58b6007c2190a8138f100e5#name=stamford-bridge&amp;post_id=154591690849&amp;rk=9LhfEWrv&amp;root_id=154480174459" scrolling="no" width="15" height="15" frameborder="0" class="like_toggle" allowTransparency="true" name="like_iframe_154591690849"></iframe></div></div>
+</article>
+
+<!-- http://cescs.tumblr.com/post/154480174459 http://chelseafc.co.vu/post/154480174459 http://chelseafcdaily.tumblr.com/post/154549352829/cescs-azpilicueta-is-a-really-important-player -->
+
+<article class="entry">
+<div class="post">
+<!-- photo --><div class="media"><a href="http://stamford-bridge.tumblr.com/image/154590194778"><img src="http://68.media.tumblr.com/d4514f5671457f6b315d3ccbdeb69672/tumblr_oic48xhH3t1t9ys1ao1_1280.jpg"/></a></div>
+
+</div>
+<!-- post info --><table class="info"><tr><td class="t"><div class="tagged"><a href="http://stamford-bridge.tumblr.com/tagged/asdghsd-so-cute">asdghsd so cute</a> <a href="http://stamford-bridge.tumblr.com/tagged/antonio-conte">antonio conte</a> <a href="http://stamford-bridge.tumblr.com/tagged/epl">epl</a> </div></td><td class="p"><a href="http://stamford-bridge.tumblr.com/post/154590194778" class="permalink">6 days ago</a>&nbsp;<a href="http://stamford-bridge.tumblr.com/post/154590194778" class="count">+92</a></td></tr></table>
+<div class="buttons"><a href="https://www.tumblr.com/reblog/154590194778/IyTFdqeF" class="reblog_button"style="display: block;width:15px;height:15px;"><svg width="100%" height="100%" viewBox="0 0 21 21" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" fill="#ccc"><path d="M5.01092527,5.99908429 L16.0088498,5.99908429 L16.136,9.508 L20.836,4.752 L16.136,0.083 L16.1360004,3.01110845 L2.09985349,3.01110845 C1.50585349,3.01110845 0.979248041,3.44726568 0.979248041,4.45007306 L0.979248041,10.9999998 L3.98376463,8.30993634 L3.98376463,6.89801007 C3.98376463,6.20867902 4.71892527,5.99908429 5.01092527,5.99908429 Z"></path><path d="M17.1420002,13.2800293 C17.1420002,13.5720293 17.022957,14.0490723 16.730957,14.0490723 L4.92919922,14.0490723 L4.92919922,11 L0.5,15.806 L4.92919922,20.5103758 L5.00469971,16.9990234 L18.9700928,16.9990234 C19.5640928,16.9990234 19.9453125,16.4010001 19.9453125,15.8060001 L19.9453125,9.5324707 L17.142,12.203"></path></svg></a><div class="like_button" data-post-id="154590194778" data-blog-name="stamford-bridge" id="like_button_154590194778"><iframe id="like_iframe_154590194778" src="http://assets.tumblr.com/assets/html/like_iframe.html?_v=399aee1ea58b6007c2190a8138f100e5#name=stamford-bridge&amp;post_id=154590194778&amp;rk=IyTFdqeF&amp;root_id=154589799942" scrolling="no" width="15" height="15" frameborder="0" class="like_toggle" allowTransparency="true" name="like_iframe_154590194778"></iframe></div></div>
+</article>
+
+<!-- http://iheartchelseafc.tumblr.com/post/154589799942 http://iheartchelseafc.tumblr.com/post/154589799942 -->
+
+<article class="entry">
+<div class="post">
+<!-- text --><div class="body"><p>Antonio&rsquo;s name is being sung throughout the stadium while the man himself is pointing at his players, perfect manager perfect fans perfect team perfect club&nbsp;</p></div>
+
+</div>
+<!-- post info --><table class="info"><tr><td class="t"><div class="tagged"><a href="http://stamford-bridge.tumblr.com/tagged/chelsea-fc">chelsea fc</a> </div></td><td class="p"><a href="http://stamford-bridge.tumblr.com/post/154588957503/antonios-name-is-being-sung-throughout-the" class="permalink">6 days ago</a>&nbsp;<a href="http://stamford-bridge.tumblr.com/post/154588957503/antonios-name-is-being-sung-throughout-the" class="count">+23</a></td></tr></table>
+<div class="buttons"><a href="https://www.tumblr.com/reblog/154588957503/9aur4BKC" class="reblog_button"style="display: block;width:15px;height:15px;"><svg width="100%" height="100%" viewBox="0 0 21 21" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" fill="#ccc"><path d="M5.01092527,5.99908429 L16.0088498,5.99908429 L16.136,9.508 L20.836,4.752 L16.136,0.083 L16.1360004,3.01110845 L2.09985349,3.01110845 C1.50585349,3.01110845 0.979248041,3.44726568 0.979248041,4.45007306 L0.979248041,10.9999998 L3.98376463,8.30993634 L3.98376463,6.89801007 C3.98376463,6.20867902 4.71892527,5.99908429 5.01092527,5.99908429 Z"></path><path d="M17.1420002,13.2800293 C17.1420002,13.5720293 17.022957,14.0490723 16.730957,14.0490723 L4.92919922,14.0490723 L4.92919922,11 L0.5,15.806 L4.92919922,20.5103758 L5.00469971,16.9990234 L18.9700928,16.9990234 C19.5640928,16.9990234 19.9453125,16.4010001 19.9453125,15.8060001 L19.9453125,9.5324707 L17.142,12.203"></path></svg></a><div class="like_button" data-post-id="154588957503" data-blog-name="stamford-bridge" id="like_button_154588957503"><iframe id="like_iframe_154588957503" src="http://assets.tumblr.com/assets/html/like_iframe.html?_v=399aee1ea58b6007c2190a8138f100e5#name=stamford-bridge&amp;post_id=154588957503&amp;rk=9aur4BKC" scrolling="no" width="15" height="15" frameborder="0" class="like_toggle" allowTransparency="true" name="like_iframe_154588957503"></iframe></div></div>
+</article>
+
+<!--  -->
+
+<article class="entry">
+<div class="post">
+<!-- photo --><div class="media"><a href="http://stamford-bridge.tumblr.com/image/154587613593"><img src="http://68.media.tumblr.com/b47a47dff3d6e7e8203d268c9178204c/tumblr_oic009szbO1t9ys1ao1_1280.jpg"/></a></div>
+
+</div>
+<!-- post info --><table class="info"><tr><td class="t"><div class="tagged"><a href="http://stamford-bridge.tumblr.com/tagged/a-hero">a hero</a> <a href="http://stamford-bridge.tumblr.com/tagged/diego-costa">diego costa</a> <a href="http://stamford-bridge.tumblr.com/tagged/nemanja-matic">nemanja matic</a> <a href="http://stamford-bridge.tumblr.com/tagged/epl">epl</a> </div></td><td class="p"><a href="http://stamford-bridge.tumblr.com/post/154587613593" class="permalink">6 days ago</a>&nbsp;<a href="http://stamford-bridge.tumblr.com/post/154587613593" class="count">+52</a></td></tr></table>
+<div class="buttons"><a href="https://www.tumblr.com/reblog/154587613593/mCTFXQtY" class="reblog_button"style="display: block;width:15px;height:15px;"><svg width="100%" height="100%" viewBox="0 0 21 21" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" fill="#ccc"><path d="M5.01092527,5.99908429 L16.0088498,5.99908429 L16.136,9.508 L20.836,4.752 L16.136,0.083 L16.1360004,3.01110845 L2.09985349,3.01110845 C1.50585349,3.01110845 0.979248041,3.44726568 0.979248041,4.45007306 L0.979248041,10.9999998 L3.98376463,8.30993634 L3.98376463,6.89801007 C3.98376463,6.20867902 4.71892527,5.99908429 5.01092527,5.99908429 Z"></path><path d="M17.1420002,13.2800293 C17.1420002,13.5720293 17.022957,14.0490723 16.730957,14.0490723 L4.92919922,14.0490723 L4.92919922,11 L0.5,15.806 L4.92919922,20.5103758 L5.00469971,16.9990234 L18.9700928,16.9990234 C19.5640928,16.9990234 19.9453125,16.4010001 19.9453125,15.8060001 L19.9453125,9.5324707 L17.142,12.203"></path></svg></a><div class="like_button" data-post-id="154587613593" data-blog-name="stamford-bridge" id="like_button_154587613593"><iframe id="like_iframe_154587613593" src="http://assets.tumblr.com/assets/html/like_iframe.html?_v=399aee1ea58b6007c2190a8138f100e5#name=stamford-bridge&amp;post_id=154587613593&amp;rk=mCTFXQtY&amp;root_id=154587443652" scrolling="no" width="15" height="15" frameborder="0" class="like_toggle" allowTransparency="true" name="like_iframe_154587613593"></iframe></div></div>
+</article>
+
+<!-- http://iheartchelseafc.tumblr.com/post/154587443652 http://iheartchelseafc.tumblr.com/post/154587443652 http://chelseafcdaily.tumblr.com/post/154587594802 -->
+
+<article class="entry">
+<div class="post">
+<!-- photoset --><div class="media"><div id="photoset_154587596033" class="html_photoset">    <iframe id="photoset_iframe_154587596033" class="photoset" scrolling="no" frameborder="0" height="-10" width="100%"style="border:0px; background-color:transparent; overflow:hidden;" src="http://stamford-bridge.tumblr.com/post/154587596033/photoset_iframe/stamford-bridge/tumblr_oic01hDOld1sscln5/0/false" name="photoset_iframe_154587596033"></iframe></div></div>
+<div class="nest"><div class="caption"><p><a href="http://chelskiblues.tumblr.com/post/154587457584/diego-costa-celebrates-his-goal-with-antonio-conte" class="tumblr_blog">chelskiblues</a>:</p><blockquote><blockquote><p><small>Diego Costa celebrates his goal with Antonio Conte (17.12.16)</small></p></blockquote></blockquote></div></div>
+</div>
+<!-- post info --><table class="info"><tr><td class="t"><div class="tagged"><a href="http://stamford-bridge.tumblr.com/tagged/so-sweet-%3A%27-%27-%29%29">so sweet :&#039; &#039; ))</a> <a href="http://stamford-bridge.tumblr.com/tagged/diego-costa">diego costa</a> <a href="http://stamford-bridge.tumblr.com/tagged/antonio-conte">antonio conte</a> <a href="http://stamford-bridge.tumblr.com/tagged/epl">epl</a> </div></td><td class="p"><a href="http://stamford-bridge.tumblr.com/post/154587596033/chelskiblues-diego-costa-celebrates-his-goal-with" class="permalink">6 days ago</a>&nbsp;<a href="http://stamford-bridge.tumblr.com/post/154587596033/chelskiblues-diego-costa-celebrates-his-goal-with" class="count">+77</a></td></tr></table>
+<div class="buttons"><a href="https://www.tumblr.com/reblog/154587596033/Zauzbuic" class="reblog_button"style="display: block;width:15px;height:15px;"><svg width="100%" height="100%" viewBox="0 0 21 21" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" fill="#ccc"><path d="M5.01092527,5.99908429 L16.0088498,5.99908429 L16.136,9.508 L20.836,4.752 L16.136,0.083 L16.1360004,3.01110845 L2.09985349,3.01110845 C1.50585349,3.01110845 0.979248041,3.44726568 0.979248041,4.45007306 L0.979248041,10.9999998 L3.98376463,8.30993634 L3.98376463,6.89801007 C3.98376463,6.20867902 4.71892527,5.99908429 5.01092527,5.99908429 Z"></path><path d="M17.1420002,13.2800293 C17.1420002,13.5720293 17.022957,14.0490723 16.730957,14.0490723 L4.92919922,14.0490723 L4.92919922,11 L0.5,15.806 L4.92919922,20.5103758 L5.00469971,16.9990234 L18.9700928,16.9990234 C19.5640928,16.9990234 19.9453125,16.4010001 19.9453125,15.8060001 L19.9453125,9.5324707 L17.142,12.203"></path></svg></a><div class="like_button" data-post-id="154587596033" data-blog-name="stamford-bridge" id="like_button_154587596033"><iframe id="like_iframe_154587596033" src="http://assets.tumblr.com/assets/html/like_iframe.html?_v=399aee1ea58b6007c2190a8138f100e5#name=stamford-bridge&amp;post_id=154587596033&amp;rk=Zauzbuic&amp;root_id=154587457584" scrolling="no" width="15" height="15" frameborder="0" class="like_toggle" allowTransparency="true" name="like_iframe_154587596033"></iframe></div></div>
+</article>
+
+<!-- http://chelskiblues.tumblr.com/post/154587457584/diego-costa-celebrates-his-goal-with-antonio-conte http://chelskiblues.tumblr.com/post/154587457584/diego-costa-celebrates-his-goal-with-antonio-conte -->
+
+<article class="entry">
+<div class="post">
+<!-- photoset --><div class="media"><div id="photoset_154344349153" class="html_photoset">    <iframe id="photoset_iframe_154344349153" class="photoset" scrolling="no" frameborder="0" height="-7" width="100%"style="border:0px; background-color:transparent; overflow:hidden;" src="http://stamford-bridge.tumblr.com/post/154344349153/photoset_iframe/stamford-bridge/tumblr_oi1gw4Jysq1rb6fzk/0/false" name="photoset_iframe_154344349153"></iframe></div></div>
+<div class="nest"><div class="caption"><p>this man doesn&rsquo;t always get the credit he deserves, he is chelsea through and through, one main big difference between him and the other &lsquo;millionair&rsquo; owners is that he truly loves and breathes this club, he bought this club <b>because</b> he was a chelsea fan and not as an&nbsp;&lsquo;investment&rsquo; for the name and the glory it brings to&nbsp;&lsquo;own&rsquo; a football club, he is so commited to this club, he visits the matches whenever he can, going to training sessions, wearing his 50$ chelsea jackes, having a $5 dollar chelsea sticker on his phone, celebrating the glorious days (cl 2012 final anyone?), crying with us on the lesser ones he loves this club so much, i&rsquo;ll&nbsp;always be so grateful for having an owner like him who truly cares about our club.</p></div></div>
+</div>
+<!-- post info --><table class="info"><tr><td class="t"><div class="tagged"><a href="http://stamford-bridge.tumblr.com/tagged/roman-abramovich">roman abramovich</a> <a href="http://stamford-bridge.tumblr.com/tagged/i-could-write-poems-about-this-man">i could write poems about this man</a> <a href="http://stamford-bridge.tumblr.com/tagged/love-u-so-much-u-da-man">love u so much u da man</a> <a href="http://stamford-bridge.tumblr.com/tagged/chelsea-fc">chelsea fc</a> </div></td><td class="p"><a href="http://stamford-bridge.tumblr.com/post/154344349153/this-man-doesnt-always-get-the-credit-he" class="permalink">1 week ago</a>&nbsp;<a href="http://stamford-bridge.tumblr.com/post/154344349153/this-man-doesnt-always-get-the-credit-he" class="count">+115</a></td></tr></table>
+<div class="buttons"><a href="https://www.tumblr.com/reblog/154344349153/hYjAItNC" class="reblog_button"style="display: block;width:15px;height:15px;"><svg width="100%" height="100%" viewBox="0 0 21 21" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" fill="#ccc"><path d="M5.01092527,5.99908429 L16.0088498,5.99908429 L16.136,9.508 L20.836,4.752 L16.136,0.083 L16.1360004,3.01110845 L2.09985349,3.01110845 C1.50585349,3.01110845 0.979248041,3.44726568 0.979248041,4.45007306 L0.979248041,10.9999998 L3.98376463,8.30993634 L3.98376463,6.89801007 C3.98376463,6.20867902 4.71892527,5.99908429 5.01092527,5.99908429 Z"></path><path d="M17.1420002,13.2800293 C17.1420002,13.5720293 17.022957,14.0490723 16.730957,14.0490723 L4.92919922,14.0490723 L4.92919922,11 L0.5,15.806 L4.92919922,20.5103758 L5.00469971,16.9990234 L18.9700928,16.9990234 C19.5640928,16.9990234 19.9453125,16.4010001 19.9453125,15.8060001 L19.9453125,9.5324707 L17.142,12.203"></path></svg></a><div class="like_button" data-post-id="154344349153" data-blog-name="stamford-bridge" id="like_button_154344349153"><iframe id="like_iframe_154344349153" src="http://assets.tumblr.com/assets/html/like_iframe.html?_v=399aee1ea58b6007c2190a8138f100e5#name=stamford-bridge&amp;post_id=154344349153&amp;rk=hYjAItNC" scrolling="no" width="15" height="15" frameborder="0" class="like_toggle" allowTransparency="true" name="like_iframe_154344349153"></iframe></div></div>
+</article>
+
+<!--  -->
+
+<article class="entry">
+<div class="post">
+<!-- photoset --><div class="media"><div id="photoset_154343983623" class="html_photoset">    <iframe id="photoset_iframe_154343983623" class="photoset" scrolling="no" frameborder="0" height="-10" width="100%"style="border:0px; background-color:transparent; overflow:hidden;" src="http://stamford-bridge.tumblr.com/post/154343983623/photoset_iframe/stamford-bridge/tumblr_oi0zhdfSHv1rkv106/0/false" name="photoset_iframe_154343983623"></iframe></div></div>
+<div class="nest"><div class="caption"><p><a href="http://hahzard.tumblr.com/post/154331597813/premier-leagues-current-top-scorer" class="tumblr_blog">hahzard</a>:</p><blockquote><blockquote><p><b>PREMIER LEAGUE&rsquo;S CURRENT TOP SCORER!</b></p></blockquote></blockquote></div></div>
+</div>
+<!-- post info --><table class="info"><tr><td class="t"><div class="tagged"><a href="http://stamford-bridge.tumblr.com/tagged/diego-costa">diego costa</a> <a href="http://stamford-bridge.tumblr.com/tagged/epl">epl</a> </div></td><td class="p"><a href="http://stamford-bridge.tumblr.com/post/154343983623/hahzard-premier-leagues-current-top-scorer" class="permalink">1 week ago</a>&nbsp;<a href="http://stamford-bridge.tumblr.com/post/154343983623/hahzard-premier-leagues-current-top-scorer" class="count">+88</a></td></tr></table>
+<div class="buttons"><a href="https://www.tumblr.com/reblog/154343983623/Ouq9Iabl" class="reblog_button"style="display: block;width:15px;height:15px;"><svg width="100%" height="100%" viewBox="0 0 21 21" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" fill="#ccc"><path d="M5.01092527,5.99908429 L16.0088498,5.99908429 L16.136,9.508 L20.836,4.752 L16.136,0.083 L16.1360004,3.01110845 L2.09985349,3.01110845 C1.50585349,3.01110845 0.979248041,3.44726568 0.979248041,4.45007306 L0.979248041,10.9999998 L3.98376463,8.30993634 L3.98376463,6.89801007 C3.98376463,6.20867902 4.71892527,5.99908429 5.01092527,5.99908429 Z"></path><path d="M17.1420002,13.2800293 C17.1420002,13.5720293 17.022957,14.0490723 16.730957,14.0490723 L4.92919922,14.0490723 L4.92919922,11 L0.5,15.806 L4.92919922,20.5103758 L5.00469971,16.9990234 L18.9700928,16.9990234 C19.5640928,16.9990234 19.9453125,16.4010001 19.9453125,15.8060001 L19.9453125,9.5324707 L17.142,12.203"></path></svg></a><div class="like_button" data-post-id="154343983623" data-blog-name="stamford-bridge" id="like_button_154343983623"><iframe id="like_iframe_154343983623" src="http://assets.tumblr.com/assets/html/like_iframe.html?_v=399aee1ea58b6007c2190a8138f100e5#name=stamford-bridge&amp;post_id=154343983623&amp;rk=Ouq9Iabl&amp;root_id=154331597813" scrolling="no" width="15" height="15" frameborder="0" class="like_toggle" allowTransparency="true" name="like_iframe_154343983623"></iframe></div></div>
+</article>
+
+<!-- http://hahzard.tumblr.com/post/154331597813/premier-leagues-current-top-scorer http://hahzard.tumblr.com/post/154331597813/premier-leagues-current-top-scorer -->
+
+<article class="entry">
+<div class="post">
+<!-- photoset --><div class="media"><div id="photoset_154343080778" class="html_photoset">    <iframe id="photoset_iframe_154343080778" class="photoset" scrolling="no" frameborder="0" height="-10" width="100%"style="border:0px; background-color:transparent; overflow:hidden;" src="http://stamford-bridge.tumblr.com/post/154343080778/photoset_iframe/stamford-bridge/tumblr_oi0xfdUc5T1ri4cgf/0/false" name="photoset_iframe_154343080778"></iframe></div></div>
+<div class="nest"><div class="caption"><p><a href="http://edenhazarddd.tumblr.com/post/154330412264/chelsea-1-0-west-brom" class="tumblr_blog">edenhazarddd</a>:</p><blockquote><blockquote><p>chelsea 1 - 0 west brom</p></blockquote></blockquote></div></div>
+</div>
+<!-- post info --><table class="info"><tr><td class="t"><div class="tagged"><a href="http://stamford-bridge.tumblr.com/tagged/epl">epl</a> </div></td><td class="p"><a href="http://stamford-bridge.tumblr.com/post/154343080778/edenhazarddd-chelsea-1-0-west-brom" class="permalink">1 week ago</a>&nbsp;<a href="http://stamford-bridge.tumblr.com/post/154343080778/edenhazarddd-chelsea-1-0-west-brom" class="count">+160</a></td></tr></table>
+<div class="buttons"><a href="https://www.tumblr.com/reblog/154343080778/rxMPA9L8" class="reblog_button"style="display: block;width:15px;height:15px;"><svg width="100%" height="100%" viewBox="0 0 21 21" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" fill="#ccc"><path d="M5.01092527,5.99908429 L16.0088498,5.99908429 L16.136,9.508 L20.836,4.752 L16.136,0.083 L16.1360004,3.01110845 L2.09985349,3.01110845 C1.50585349,3.01110845 0.979248041,3.44726568 0.979248041,4.45007306 L0.979248041,10.9999998 L3.98376463,8.30993634 L3.98376463,6.89801007 C3.98376463,6.20867902 4.71892527,5.99908429 5.01092527,5.99908429 Z"></path><path d="M17.1420002,13.2800293 C17.1420002,13.5720293 17.022957,14.0490723 16.730957,14.0490723 L4.92919922,14.0490723 L4.92919922,11 L0.5,15.806 L4.92919922,20.5103758 L5.00469971,16.9990234 L18.9700928,16.9990234 C19.5640928,16.9990234 19.9453125,16.4010001 19.9453125,15.8060001 L19.9453125,9.5324707 L17.142,12.203"></path></svg></a><div class="like_button" data-post-id="154343080778" data-blog-name="stamford-bridge" id="like_button_154343080778"><iframe id="like_iframe_154343080778" src="http://assets.tumblr.com/assets/html/like_iframe.html?_v=399aee1ea58b6007c2190a8138f100e5#name=stamford-bridge&amp;post_id=154343080778&amp;rk=rxMPA9L8&amp;root_id=154330412264" scrolling="no" width="15" height="15" frameborder="0" class="like_toggle" allowTransparency="true" name="like_iframe_154343080778"></iframe></div></div>
+</article>
+
+<!-- http://edenhazarddd.tumblr.com/post/154330412264/chelsea-1-0-west-brom http://edenhazarddd.tumblr.com/post/154330412264/chelsea-1-0-west-brom http://azpi.tumblr.com/post/154331773032/edenhazarddd-chelsea-1-0-west-brom -->
+
+<article class="entry">
+<div class="post">
+<!-- photo --><div class="media"><a href="http://stamford-bridge.tumblr.com/image/154343050898"><img src="http://68.media.tumblr.com/0774835ac213f7fdfd1bd783124c1a82/tumblr_ohtspayCuN1t9ys1ao1_1280.jpg"/></a></div>
+
+</div>
+<!-- post info --><table class="info"><tr><td class="t"><div class="tagged"><a href="http://stamford-bridge.tumblr.com/tagged/nathaniel-chalobah">nathaniel chalobah</a> <a href="http://stamford-bridge.tumblr.com/tagged/eden-hazard">eden hazard</a> <a href="http://stamford-bridge.tumblr.com/tagged/pedro">pedro</a> <a href="http://stamford-bridge.tumblr.com/tagged/chelsea-foundation">chelsea foundation</a> </div></td><td class="p"><a href="http://stamford-bridge.tumblr.com/post/154343050898" class="permalink">1 week ago</a>&nbsp;<a href="http://stamford-bridge.tumblr.com/post/154343050898" class="count">+42</a></td></tr></table>
+<div class="buttons"><a href="https://www.tumblr.com/reblog/154343050898/5ZQVJyO9" class="reblog_button"style="display: block;width:15px;height:15px;"><svg width="100%" height="100%" viewBox="0 0 21 21" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" fill="#ccc"><path d="M5.01092527,5.99908429 L16.0088498,5.99908429 L16.136,9.508 L20.836,4.752 L16.136,0.083 L16.1360004,3.01110845 L2.09985349,3.01110845 C1.50585349,3.01110845 0.979248041,3.44726568 0.979248041,4.45007306 L0.979248041,10.9999998 L3.98376463,8.30993634 L3.98376463,6.89801007 C3.98376463,6.20867902 4.71892527,5.99908429 5.01092527,5.99908429 Z"></path><path d="M17.1420002,13.2800293 C17.1420002,13.5720293 17.022957,14.0490723 16.730957,14.0490723 L4.92919922,14.0490723 L4.92919922,11 L0.5,15.806 L4.92919922,20.5103758 L5.00469971,16.9990234 L18.9700928,16.9990234 C19.5640928,16.9990234 19.9453125,16.4010001 19.9453125,15.8060001 L19.9453125,9.5324707 L17.142,12.203"></path></svg></a><div class="like_button" data-post-id="154343050898" data-blog-name="stamford-bridge" id="like_button_154343050898"><iframe id="like_iframe_154343050898" src="http://assets.tumblr.com/assets/html/like_iframe.html?_v=399aee1ea58b6007c2190a8138f100e5#name=stamford-bridge&amp;post_id=154343050898&amp;rk=5ZQVJyO9&amp;root_id=154168042172" scrolling="no" width="15" height="15" frameborder="0" class="like_toggle" allowTransparency="true" name="like_iframe_154343050898"></iframe></div></div>
+</article>
+
+<!-- http://iheartchelseafc.tumblr.com/post/154168042172 http://iheartchelseafc.tumblr.com/post/154168042172 http://chelseafcdaily.tumblr.com/post/154332144506 -->
+
+<div class="pagination"><span class="current">Page 1 of 110</span><a href="/page/2" class="next"><i class="fa fa-angle-right"></i></a></div>
+</div>
+</div>
+<a href="http://selkas.tumblr.com" id="theme">?</a>
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+<script src="http://static.tumblr.com/qudkd6d/do8ngi0w5/bjqs-1.3.min.js"></script>
+<link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
+<script>
+$(document).ready(function(){
+    
+    $('.slides').bjqs({
+        height: 478,
+        width: 956,
+        responsive: true,
+        animtype: 'fade',
+        animduration: 1000,
+        animspeed: 5000, // interval between photos in milliseconds
+        nexttext: '<i class="fa fa-angle-right"></i>',
+        prevtext: '<i class="fa fa-angle-left"></i>',
+    });
+    
+});
+</script>
+
+<iframe scrolling="no" width="1" height="1" frameborder="0" style="background-color:transparent; overflow:hidden; position:absolute; top:0; left:0; z-index:9999;" id="ga_target"></iframe><script type="text/javascript">
+    (function(){
+        var analytics_frame = document.getElementById('ga_target');
+        var analytics_iframe_loaded;
+        var user_logged_in;
+        var blog_is_nsfw = 'No';
+        var addthis_enabled = true;
+
+        var eventMethod = window.addEventListener ? "addEventListener" : "attachEvent";
+        var eventer = window[eventMethod];
+        var messageEvent = eventMethod == "attachEvent" ? "onmessage" : "message";
+        eventer(messageEvent,function(e) {
+            var message = (e.data && e.data.split) ? e.data.split(';') : '';
+            switch (message[0]) {
+                case 'analytics_iframe_loaded':
+                    analytics_iframe_loaded = true;
+                    postCSMessage();
+                    postGAMessage();
+                    postATMessage();
+                    postRapidMessage();
+                    break;
+                case 'user_logged_in':
+                    user_logged_in = message[1];
+                    postGAMessage();
+                    postATMessage();
+                    break;
+            }
+        }, false);
+
+        analytics_frame.src = "https://assets.tumblr.com/analytics.html?14fe8903b6fc4055719f823b94b746a9#" +
+                              "http://stamford-bridge.tumblr.com";
+        function postGAMessage() {
+            if (analytics_iframe_loaded && user_logged_in) {
+                var is_ajax = false;
+                analytics_frame.contentWindow.postMessage(['tick_google_analytics', is_ajax, user_logged_in, blog_is_nsfw, '/?route=%2F'].join(';'), analytics_frame.src.split('/analytics.html')[0]);
+            }
+        }
+        function postCSMessage() {
+            COMSCORE = true;
+            analytics_frame.contentWindow.postMessage('enable_comscore;' + window.location, analytics_frame.src.split('/analytics.html')[0]);
+        }
+        function postATMessage() {
+            if (addthis_enabled && analytics_iframe_loaded) {
+                analytics_frame.contentWindow.postMessage('enable_addthis', analytics_frame.src.split('/analytics.html')[0]);
+            }
+        }
+        function postRapidMessage() {
+                            if (analytics_iframe_loaded) {
+                    var is_ajax = '';
+                    var route = '/';
+                    var tumblelog_id = '63936633';
+                    var yahoo_space_id = '1197719229';
+                    var rapid_client_only = '1';
+                    var apv = '1';
+                    var rapid_ex = '';
+
+                    analytics_frame.contentWindow.postMessage(
+                        [
+                            'tick_rapid', is_ajax, route, user_logged_in, tumblelog_id,
+                            yahoo_space_id, rapid_client_only, apv, rapid_ex
+                        ].join(';'),
+                        analytics_frame.src.split('/analytics.html')[0]
+                    );
+                }
+                    }
+    })();
+</script><script type="text/javascript">!function(s){s.src='https://px.srvcs.tumblr.com/impixu?T=1482522173&J=eyJ0eXBlIjoidXJsIiwidXJsIjoiaHR0cDpcL1wvc3RhbWZvcmQtYnJpZGdlLnR1bWJsci5jb21cLyIsInJlcXR5cGUiOjAsInJvdXRlIjoiXC8ifQ==&U=ICGFJHEBFL&K=cd047f04dd7b4b67ca29c037b27696534f9a39cb032d0f5004e31d4231fe0c66&R='.replace(/&R=[^&$]*/,'').concat('&R='+escape(document.referrer)).slice(0,2000).replace(/%.?.?$/,'');}(new Image());</script><noscript><img style="position:absolute;z-index:-3334;top:0px;left:0px;visibility:hidden;" src="https://px.srvcs.tumblr.com/impixu?T=1482522173&J=eyJ0eXBlIjoidXJsIiwidXJsIjoiaHR0cDpcL1wvc3RhbWZvcmQtYnJpZGdlLnR1bWJsci5jb21cLyIsInJlcXR5cGUiOjAsInJvdXRlIjoiXC8iLCJub3NjcmlwdCI6MX0=&U=ICGFJHEBFL&K=67f94582281eec4b0914abc0f0b2ca2d9369431bc96baaa76eec184dbedb38e3&R="></noscript><script >
+        (function (w,d) {
+            'use strict';
+            var l = function(el, type, listener, useCapture) {
+                el.addEventListener ?
+                el.addEventListener(type, listener, !!useCapture) :
+                el.attachEvent && el.attachEvent('on' + type, listener, !!useCapture);
+            };
+            var a = function () {
+                                if (d.getElementById('tumblr-cdx')) {
+                    return;
+                }
+                var s = d.createElement('script');
+                var el = d.getElementsByTagName('script')[0];
+                s.async = true;
+                s.src = 'http://assets.tumblr.com/assets/scripts/vendor/cedexis/cedexis.radar.js?_v=0617a41f613fb6de733e8b614ac60762';
+                s.type = 'text/javascript';
+                s.id = 'tumblr-cdx';
+                d.body.appendChild(s);
+            };
+            l(w,'load',a);
+        }(window, document));
+</script><script type="text/javascript">!function(s){s.src='https://px.srvcs.tumblr.com/impixu?T=1482522173&J=eyJ0eXBlIjoicG9zdCIsInVybCI6Imh0dHA6XC9cL3N0YW1mb3JkLWJyaWRnZS50dW1ibHIuY29tXC8iLCJyZXF0eXBlIjowLCJyb3V0ZSI6IlwvIiwicG9zdHMiOlt7InJvb3RfYmxvZ2lkIjoiOTQ2MTk5NiIsInJvb3RfcG9zdGlkIjoiMTU0Nzg2MDI0NjE5IiwicG9zdGlkIjoxNTQ4NTc5MTk3ODgsImJsb2dpZCI6IjYzOTM2NjMzIiwic291cmNlIjozM30seyJyb290X2Jsb2dpZCI6IjMyNjcxNDM4NyIsInJvb3RfcG9zdGlkIjoiMTU0NTE3NDI2OTQzIiwicG9zdGlkIjoiMTU0NzIzOTAyODQyIiwiYmxvZ2lkIjoiNjM5MzY2MzMiLCJzb3VyY2UiOjMzfSx7InJvb3RfYmxvZ2lkIjoiMTM2NjY2OTUiLCJyb290X3Bvc3RpZCI6IjE1NDY3MjcxMjQ2OSIsInBvc3RpZCI6IjE1NDY3NjI1MDIyMyIsImJsb2dpZCI6IjYzOTM2NjMzIiwic291cmNlIjozM30seyJyb290X2Jsb2dpZCI6IjE2MDM1Njk3MSIsInJvb3RfcG9zdGlkIjoiMTU0NjMwNjQ2NzE3IiwicG9zdGlkIjoiMTU0NjQzNDU1NzUyIiwiYmxvZ2lkIjoiNjM5MzY2MzMiLCJzb3VyY2UiOjMzfSx7InJvb3RfYmxvZ2lkIjoiNzU1OTY5OTIiLCJyb290X3Bvc3RpZCI6IjE1NDU4OTE3NzExNCIsInBvc3RpZCI6IjE1NDYzMDUyODg3MyIsImJsb2dpZCI6IjYzOTM2NjMzIiwic291cmNlIjozM30seyJyb290X2Jsb2dpZCI6IjEzNjY2Njk1Iiwicm9vdF9wb3N0aWQiOiIxNTQ0ODAxNzQ0NTkiLCJwb3N0aWQiOiIxNTQ1OTE2OTA4NDkiLCJibG9naWQiOiI2MzkzNjYzMyIsInNvdXJjZSI6MzN9LHsicm9vdF9ibG9naWQiOiIxNjAzNTY5NzEiLCJyb290X3Bvc3RpZCI6MTU0NTg5Nzk5OTQyLCJwb3N0aWQiOiIxNTQ1OTAxOTQ3NzgiLCJibG9naWQiOiI2MzkzNjYzMyIsInNvdXJjZSI6MzN9XX0=&U=NBKHAJDCKF&K=cad9e1f85a36ba9e45e16d4dfd52130885139d5f046b2aee7453a71fdeb8ad74&R='.replace(/&R=[^&$]*/,'').concat('&R='+escape(document.referrer)).slice(0,2000).replace(/%.?.?$/,'');}(new Image());</script><noscript><img style="position:absolute;z-index:-3334;top:0px;left:0px;visibility:hidden;" src="https://px.srvcs.tumblr.com/impixu?T=1482522173&J=eyJ0eXBlIjoicG9zdCIsInVybCI6Imh0dHA6XC9cL3N0YW1mb3JkLWJyaWRnZS50dW1ibHIuY29tXC8iLCJyZXF0eXBlIjowLCJyb3V0ZSI6IlwvIiwicG9zdHMiOlt7InJvb3RfYmxvZ2lkIjoiOTQ2MTk5NiIsInJvb3RfcG9zdGlkIjoiMTU0Nzg2MDI0NjE5IiwicG9zdGlkIjoxNTQ4NTc5MTk3ODgsImJsb2dpZCI6IjYzOTM2NjMzIiwic291cmNlIjozM30seyJyb290X2Jsb2dpZCI6IjMyNjcxNDM4NyIsInJvb3RfcG9zdGlkIjoiMTU0NTE3NDI2OTQzIiwicG9zdGlkIjoiMTU0NzIzOTAyODQyIiwiYmxvZ2lkIjoiNjM5MzY2MzMiLCJzb3VyY2UiOjMzfSx7InJvb3RfYmxvZ2lkIjoiMTM2NjY2OTUiLCJyb290X3Bvc3RpZCI6IjE1NDY3MjcxMjQ2OSIsInBvc3RpZCI6IjE1NDY3NjI1MDIyMyIsImJsb2dpZCI6IjYzOTM2NjMzIiwic291cmNlIjozM30seyJyb290X2Jsb2dpZCI6IjE2MDM1Njk3MSIsInJvb3RfcG9zdGlkIjoiMTU0NjMwNjQ2NzE3IiwicG9zdGlkIjoiMTU0NjQzNDU1NzUyIiwiYmxvZ2lkIjoiNjM5MzY2MzMiLCJzb3VyY2UiOjMzfSx7InJvb3RfYmxvZ2lkIjoiNzU1OTY5OTIiLCJyb290X3Bvc3RpZCI6IjE1NDU4OTE3NzExNCIsInBvc3RpZCI6IjE1NDYzMDUyODg3MyIsImJsb2dpZCI6IjYzOTM2NjMzIiwic291cmNlIjozM30seyJyb290X2Jsb2dpZCI6IjEzNjY2Njk1Iiwicm9vdF9wb3N0aWQiOiIxNTQ0ODAxNzQ0NTkiLCJwb3N0aWQiOiIxNTQ1OTE2OTA4NDkiLCJibG9naWQiOiI2MzkzNjYzMyIsInNvdXJjZSI6MzN9LHsicm9vdF9ibG9naWQiOiIxNjAzNTY5NzEiLCJyb290X3Bvc3RpZCI6MTU0NTg5Nzk5OTQyLCJwb3N0aWQiOiIxNTQ1OTAxOTQ3NzgiLCJibG9naWQiOiI2MzkzNjYzMyIsInNvdXJjZSI6MzN9XSwibm9zY3JpcHQiOjF9&U=NBKHAJDCKF&K=9ab24e3b90583accf635d4cf9547cf4dabcf9bc7845429930bc382c1deaa613a&R="></noscript><script type="text/javascript">!function(s){s.src='https://px.srvcs.tumblr.com/impixu?T=1482522173&J=eyJ0eXBlIjoicG9zdCIsInVybCI6Imh0dHA6XC9cL3N0YW1mb3JkLWJyaWRnZS50dW1ibHIuY29tXC8iLCJyZXF0eXBlIjowLCJyb3V0ZSI6IlwvIiwicG9zdHMiOlt7InBvc3RpZCI6IjE1NDU4ODk1NzUwMyIsImJsb2dpZCI6IjYzOTM2NjMzIiwic291cmNlIjozM30seyJyb290X2Jsb2dpZCI6IjE2MDM1Njk3MSIsInJvb3RfcG9zdGlkIjoxNTQ1ODc0NDM2NTIsInBvc3RpZCI6IjE1NDU4NzYxMzU5MyIsImJsb2dpZCI6IjYzOTM2NjMzIiwic291cmNlIjozM30seyJyb290X2Jsb2dpZCI6IjExMDE4MDA0NSIsInJvb3RfcG9zdGlkIjoxNTQ1ODc0NTc1ODQsInBvc3RpZCI6IjE1NDU4NzU5NjAzMyIsImJsb2dpZCI6IjYzOTM2NjMzIiwic291cmNlIjozM30seyJwb3N0aWQiOiIxNTQzNDQzNDkxNTMiLCJibG9naWQiOiI2MzkzNjYzMyIsInNvdXJjZSI6MzN9LHsicm9vdF9ibG9naWQiOiI3OTU3NzIzOCIsInJvb3RfcG9zdGlkIjoiMTU0MzMxNTk3ODEzIiwicG9zdGlkIjoiMTU0MzQzOTgzNjIzIiwiYmxvZ2lkIjoiNjM5MzY2MzMiLCJzb3VyY2UiOjMzfSx7InJvb3RfYmxvZ2lkIjoiNzU1OTY5OTIiLCJyb290X3Bvc3RpZCI6MTU0MzMwNDEyMjY0LCJwb3N0aWQiOiIxNTQzNDMwODA3NzgiLCJibG9naWQiOiI2MzkzNjYzMyIsInNvdXJjZSI6MzN9LHsicm9vdF9ibG9naWQiOiIxNjAzNTY5NzEiLCJyb290X3Bvc3RpZCI6IjE1NDE2ODA0MjE3MiIsInBvc3RpZCI6IjE1NDM0MzA1MDg5OCIsImJsb2dpZCI6IjYzOTM2NjMzIiwic291cmNlIjozM31dfQ==&U=LIJEFALOGA&K=96dda13e2fac53b311da6715eb914cb3d8dba8813b18945a0ff09d5a927151f4&R='.replace(/&R=[^&$]*/,'').concat('&R='+escape(document.referrer)).slice(0,2000).replace(/%.?.?$/,'');}(new Image());</script><noscript><img style="position:absolute;z-index:-3334;top:0px;left:0px;visibility:hidden;" src="https://px.srvcs.tumblr.com/impixu?T=1482522173&J=eyJ0eXBlIjoicG9zdCIsInVybCI6Imh0dHA6XC9cL3N0YW1mb3JkLWJyaWRnZS50dW1ibHIuY29tXC8iLCJyZXF0eXBlIjowLCJyb3V0ZSI6IlwvIiwicG9zdHMiOlt7InBvc3RpZCI6IjE1NDU4ODk1NzUwMyIsImJsb2dpZCI6IjYzOTM2NjMzIiwic291cmNlIjozM30seyJyb290X2Jsb2dpZCI6IjE2MDM1Njk3MSIsInJvb3RfcG9zdGlkIjoxNTQ1ODc0NDM2NTIsInBvc3RpZCI6IjE1NDU4NzYxMzU5MyIsImJsb2dpZCI6IjYzOTM2NjMzIiwic291cmNlIjozM30seyJyb290X2Jsb2dpZCI6IjExMDE4MDA0NSIsInJvb3RfcG9zdGlkIjoxNTQ1ODc0NTc1ODQsInBvc3RpZCI6IjE1NDU4NzU5NjAzMyIsImJsb2dpZCI6IjYzOTM2NjMzIiwic291cmNlIjozM30seyJwb3N0aWQiOiIxNTQzNDQzNDkxNTMiLCJibG9naWQiOiI2MzkzNjYzMyIsInNvdXJjZSI6MzN9LHsicm9vdF9ibG9naWQiOiI3OTU3NzIzOCIsInJvb3RfcG9zdGlkIjoiMTU0MzMxNTk3ODEzIiwicG9zdGlkIjoiMTU0MzQzOTgzNjIzIiwiYmxvZ2lkIjoiNjM5MzY2MzMiLCJzb3VyY2UiOjMzfSx7InJvb3RfYmxvZ2lkIjoiNzU1OTY5OTIiLCJyb290X3Bvc3RpZCI6MTU0MzMwNDEyMjY0LCJwb3N0aWQiOiIxNTQzNDMwODA3NzgiLCJibG9naWQiOiI2MzkzNjYzMyIsInNvdXJjZSI6MzN9LHsicm9vdF9ibG9naWQiOiIxNjAzNTY5NzEiLCJyb290X3Bvc3RpZCI6IjE1NDE2ODA0MjE3MiIsInBvc3RpZCI6IjE1NDM0MzA1MDg5OCIsImJsb2dpZCI6IjYzOTM2NjMzIiwic291cmNlIjozM31dLCJub3NjcmlwdCI6MX0=&U=LIJEFALOGA&K=ee2dd9115e0fad92097e4895c38faeb53c8f51e35d1fceced1f6f3b74d1ec1ff&R="></noscript><noscript id="bootloader" data-bootstrap="{&quot;Components&quot;:{&quot;PostActivity&quot;:[],&quot;TumblelogIframe&quot;:{&quot;unified&quot;:false,&quot;variant&quot;:null,&quot;isCompact&quot;:false,&quot;tumblelogBundleSrc&quot;:&quot;http:\/\/assets.tumblr.com\/client\/prod\/standalone\/tumblelog\/index.build.js?_v=abaae919bf34a305394dfc1ebad7e02c&quot;,&quot;tumblelogName&quot;:&quot;stamford-bridge&quot;,&quot;isLoggedIn&quot;:false,&quot;isFriend&quot;:false,&quot;formKey&quot;:&quot;&quot;,&quot;canSubscribe&quot;:false,&quot;isSubscribed&quot;:false,&quot;tumblelogTitle&quot;:&quot;Chelsea Football Club&quot;,&quot;tumblelogAvatar&quot;:&quot;http:\/\/68.media.tumblr.com\/avatar_8d9a8da25a8a_40.png&quot;,&quot;tumblelogHost&quot;:&quot;http:\/\/stamford-bridge.tumblr.com&quot;,&quot;isOptica&quot;:false,&quot;isCustomTheme&quot;:true,&quot;themeHeaderImage&quot;:&quot;https:\/\/secure.static.tumblr.com\/72638860a0ff5c6e93e8d92137437617\/vk3dkh2\/RYTnox0dw\/tumblr_static_tumblr_static_64kjibp6hxk4wkgkg4k8cc884_focused_v3.png&quot;,&quot;themeBackgroundColor&quot;:&quot;#FFFFFF&quot;,&quot;themeTitleColor&quot;:&quot;#6AABD3&quot;,&quot;themeAccentColor&quot;:&quot;#888888&quot;,&quot;brag&quot;:true,&quot;adsEnabled&quot;:true,&quot;canShowAd&quot;:true,&quot;isPremium&quot;:null,&quot;showLrecAds&quot;:false,&quot;showGeminiAds&quot;:false,&quot;geminiSectionCodeDesktop&quot;:&quot;a10bca9c-0c5d-4a02-ab13-14ab8513d81d&quot;,&quot;geminiSectionCodeMobile&quot;:&quot;ced63809-b609-4aca-96a0-abc099acba6b&quot;,&quot;currentPageType&quot;:&quot;blog&quot;,&quot;currentPage&quot;:&quot;1&quot;,&quot;searchQuery&quot;:&quot;&quot;,&quot;tag&quot;:&quot;&quot;,&quot;query&quot;:&quot;&quot;,&quot;chrono&quot;:false,&quot;postId&quot;:&quot;&quot;,&quot;src&quot;:&quot;http:\/\/stamford-bridge.tumblr.com\/&quot;,&quot;postUrl&quot;:&quot;&quot;,&quot;isBlocked&quot;:null,&quot;isAdmin&quot;:false,&quot;lookupButtonUrl&quot;:&quot;&quot;,&quot;showSpamButton&quot;:false,&quot;showRootPostButton&quot;:false,&quot;rootPostUrl&quot;:&quot;&quot;,&quot;showRadarPostButton&quot;:false,&quot;radarKeys&quot;:&quot;&quot;,&quot;isUniblocked&quot;:false,&quot;isNsfw&quot;:false,&quot;isAdult&quot;:false,&quot;isSpam&quot;:false,&quot;isPrimaryBlog&quot;:false,&quot;canEdit&quot;:false,&quot;canReblogSelf&quot;:false,&quot;showLikeButton&quot;:false,&quot;showReblogButton&quot;:false,&quot;reblogUrl&quot;:&quot;&quot;,&quot;showFanMailButton&quot;:false,&quot;showMessagingButton&quot;:false,&quot;loginCheckIframeSrc&quot;:&quot;http:\/\/assets.tumblr.com\/assets\/html\/iframe\/login_check.html?_v=db0fd3d8bbf41992f1bb20296cc8b4a8&quot;,&quot;appInstallUrl&quot;:&quot;https:\/\/go.onelink.me\/893408789?pid=tumblr_blog_network\u0026c=tumblr_blog_network\u0026af_sub3=blog_name&quot;,&quot;appOpenReferrer&quot;:&quot;mobile_banner&quot;,&quot;isShowSearch&quot;:true}},&quot;Flags&quot;:{&quot;doods&quot;:&quot;eyJmaWx0ZXJfbnNmdyI6dHJ1ZSwia2V5Y29tbWFuZF9hdXRvX3BhZ2luYXRlIjp0cnVlLCJsb2dnZWRfb3V0X3NlYXJjaCI6dHJ1ZSwiYXJjaGl2ZS1wbHVzIjp0cnVlLCJzZWN1cmVfZm9ybV9rZXkiOnRydWUsInNlY3VyZV9mb3JtX2tleV9mdWxseV9vbiI6dHJ1ZSwidHVtYmxlbG9nX3BvcG92ZXIiOnRydWUsImNhbm9uaWNhbF91cmxfd3JpdGVzIjp0cnVlLCJlbmFibGVfY2FwdHVyZV9qcyI6dHJ1ZSwicHJpbWFfcG9zdF9mb3JtcyI6dHJ1ZSwibG9ja2VkX3JlYmxvZ191aSI6dHJ1ZSwidGFibGV0X2Jhbm5lcl9hY3RpdmUiOnRydWUsIm1vYmlsZV9iYW5uZXJfYWN0aXZlIjp0cnVlLCJsb2dfc2VhcmNoX2JveCI6dHJ1ZSwidXNlcl9tZW50aW9ucyI6dHJ1ZSwiaHRtbDVfYXVkaW9fcGxheWVyIjp0cnVlLCJwb3BvdmVyX3JlY29tbWVuZGF0aW9ucyI6dHJ1ZSwiaW5kYXNoX3JlY29tbWVuZGF0aW9ucyI6dHJ1ZSwicG9wdGljYV90dW1ibGVsb2dfcG9wb3ZlcnMiOnRydWUsInR1bWJscl90diI6dHJ1ZSwiZGVwcmVjYXRlX2ZlYXR1cmVkX3RhZ3MiOnRydWUsInJlYmxvZ191aV9yZWZyZXNoIjp0cnVlLCJ0YWJfc3dpdGNoZXIiOnRydWUsImZhc3RfY29tcG9zZSI6dHJ1ZSwiZGFzaGJvYXJkX3JlZnJlc2giOnRydWUsIm1vYmlsZV93ZWJfcGhvdG9zZXRzIjp0cnVlLCJtb2JpbGVfd2ViX2dhdGUiOnRydWUsIm1vYmlsZV93ZWJfcGFnZV90aXRsZXMiOnRydWUsIm1vYmlsZV93ZWJfYWJ1c2VfZm9ybSI6dHJ1ZSwiZG9udF9jYXN0X2pzX2ZvbGxvd3MiOnRydWUsImFkc19uZXdfdmVuZG9yX2J1dHRvbnMiOnRydWUsImJsb2NrX2ZlYXR1cmUiOnRydWUsInJlYWN0aXZhdGlvbl9mbG93Ijp0cnVlLCJndWxwanNfYWRtaW4iOnRydWUsImVuYWJsZV9qc19lcGhlbWVyYWxfbG9nIjp0cnVlLCJsb2dfbGFkeSI6dHJ1ZSwiY3Nsb2dnZXJfanMiOnRydWUsImRpc2NvdmVyeV9odWJfYWNjZXNzIjp0cnVlLCJoZWFkZXJfYWNjb3VudF9tZW51Ijp0cnVlLCJlbmFibGVfc2hhcmVfZW1iZWRfY29kZSI6dHJ1ZSwicmVkZGl0X3NoYXJpbmciOnRydWUsInBvc3RfaXRfZm9yd2FyZCI6dHJ1ZSwicGVlcHJfc2VhcmNoX2FuZF9maWx0ZXIiOnRydWUsImludGVybnNfcGFnZSI6dHJ1ZSwiZm9sbG93ZWRfc2VhcmNoZXNfYmlnX3dlYiI6dHJ1ZSwiZGFybGFfYWRfZmVlZGJhY2siOnRydWUsIm5ld19yZXBsaWVzIjp0cnVlLCJsaXZlcGhvdG9zX3dlYiI6dHJ1ZSwibHJlY19vbl9ibG9nX3BhZ2VzX3BlZXByIjp0cnVlLCJoaWRlX2RlZmF1bHRfaGVhZGVyc19ibG9nX2NhcmRzIjp0cnVlLCJkaXNhYmxlX3lhaG9vX2JfY29va2llIjp0cnVlLCJsaXZlcGhvdG9zIjp0cnVlfQ==&quot;},&quot;Context&quot;:{&quot;name&quot;:&quot;default&quot;,&quot;time&quot;:1482522173000,&quot;userinfo&quot;:{&quot;primary&quot;:&quot;&quot;,&quot;name&quot;:&quot;&quot;,&quot;channels&quot;:[]},&quot;hosts&quot;:{&quot;assets_host&quot;:&quot;http:\/\/assets.tumblr.com&quot;,&quot;secure_assets_host&quot;:&quot;https:\/\/assets.tumblr.com&quot;,&quot;www_host&quot;:&quot;http:\/\/www.tumblr.com&quot;,&quot;secure_www_host&quot;:&quot;https:\/\/www.tumblr.com&quot;,&quot;embed_host&quot;:&quot;https:\/\/embed.tumblr.com&quot;,&quot;safe_host&quot;:&quot;http:\/\/safe.txmblr.com&quot;,&quot;platform_host&quot;:&quot;http:\/\/platform.tumblr.com&quot;},&quot;language&quot;:&quot;en_US&quot;,&quot;language_simple&quot;:&quot;en&quot;,&quot;assets&quot;:&quot;http:\/\/assets.tumblr.com\/client\/prod\/&quot;},&quot;Translations&quot;:{&quot;%1$sReport %2$s&#039;s post?%3$sIf it violates our community guidelines, we&#039;ll remove it.%4$s&quot;:&quot;%1$sReport %2$s&#039;s reblog?%3$sIf it violates our community guidelines, we&#039;ll remove it.%4$s&quot;,&quot;%1$sReport %2$s&#039;s reply?%3$sIf it violates our community guidelines, we&#039;ll remove it.%4$s&quot;:&quot;%1$sReport %2$s&#039;s reblog?%3$sIf it violates our community guidelines, we&#039;ll remove it.%4$s&quot;}}"></noscript><script src="http://assets.tumblr.com/client/prod/standalone/tumblelog/index.build.js?_v=abaae919bf34a305394dfc1ebad7e02c"></script></body>
+</html>
