@@ -1,3 +1,0 @@
- <form class="search" action="javascript:return false">
-            <input type="text" class="query" placeholder="Search tags">
-        </form>
