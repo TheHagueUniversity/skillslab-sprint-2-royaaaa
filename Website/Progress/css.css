@@ -1,0 +1,121 @@
+
+/* in case of customized font is used 300 300i etc. are font weight */ 
+@import url('https://fonts.googleapis.com/css?family=Roboto:300,300i,400,700');
+
+
+/* basic layout */
+body
+	{	
+	margin: 50px;
+ 	padding: 50px;
+	background-color: #fff; /* or any other hex rgb color or transparent * hex is #000000 rgb(250,215.12) or rgba(212,212,212,0.2)*/
+	font-family: 'Roboto', sans-serif, 'FontAwesome'; /*basic font of layout */		
+	font-size: 12pt;
+	color: rgba(0,0,0,.7);
+	}
+
+/* layout links */
+a 
+	{
+	color: #eb5c59;
+	text-decoration: none;
+	}
+
+a:hover
+	{
+	color:red;
+	text-decoration: underline;
+	letter-spacing: 5px;
+
+	/* smoothness of transition */
+	-moz-transition-duration: 0.6s;  
+    -webkit-transition-duration: 0.6s;  
+    -o-transition-duration: 0.6s;
+	}
+
+/*titles*/
+h1 
+	{
+		margin: 0;
+		padding: 0;
+		color: #404040;
+	}
+nav
+	{
+		height: 60px;
+	}
+	
+	nav ul
+	{
+		display: inline-block;
+		padding: 0em 2em;
+		text-align: center;
+	}
+	
+	nav li
+	{
+		display: inline-block;
+	}
+	
+main, section, article
+	{
+		overflow: hidden;
+		padding: 0 0 5em 0;
+		background: #fff;
+	}
+
+article
+	{
+		overflow: hidden;
+		padding: 0 0 5em 5em;
+		background: #fff;
+	}
+.content 
+{
+	float: left;
+	margin-top:160px;
+	/* etc etc */
+}
+
+#three-column
+	{
+		overflow: hidden;
+		margin-top: 5em;
+		padding-top: 1em;
+		border-top: 1px solid rgba(235,92,89,0.5);
+		text-align: center;
+	}
+	
+	#three-column h2
+	{
+		margin: 1em 0em;
+		font-size: 1.6em;
+		font-weight: 700;
+		border-top: 1px solid rgba(235,92,89,0.5);
+	}
+	
+		
+	#three-column #tbox1, #three-column #tbox2,	#three-column #tbox3
+	{
+		float: left;
+		padding: 80px 40px 80px 40px;
+		width: 320px;
+	}
+	
+	#three-column .title
+	{
+		text-align: center;
+		font-size: 1.5em;
+	}
+
+/* Portfolio page */
+
+	.portpic1 {
+	content: url(../images/portfolio1.jpg);
+	}
+	.portpic2 {
+	content: url(../images/portfolio2.jpg);
+	}
+	.portpic3{
+	content: url(../images/portfolio3.jpg);
+	}

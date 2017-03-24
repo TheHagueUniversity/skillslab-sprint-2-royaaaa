@@ -1,0 +1,23 @@
+***Disclaimer****
+
+Inspiration for the layout and design of my site is from Templated.com specific Template called Amaryllis, Creative Commons Attribution 3.0 Unported http://creativecommons.org/licenses/by/3.0/.
+
+I used a basic layout as an example and re-wrote everything according my liking and the criteria.
+I did not copy the code and used as my own.
+I used the HTML and CSS template watching tutorials and reading, prior starting with my site.
+
+Javascript for Google Maps is not mine and I hereby do not claim that it's mine.
+
+Source:
+https://maps.googleapis.com/maps/api/js?callback=myMap
+
+The pictures on my site are various, credit is due where it's needed but I hereby state that I do not have nor give any rights to any of the pictures on my site to be used commercially. The pictures are for private use only. 
+
+
+My contact form is inspired by
+https://codepen.io/ssbalakumar/pen/uzDIA
+
+Font credit:
+©FontAwesome http://fontawesome.io/icons/
+©Fonts.google Roboto https://fonts.google.com/specimen/Roboto?selection.family=Roboto:300,300i,400,700
+©Sans serif
