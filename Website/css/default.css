@@ -1,42 +1,42 @@
 @import url('https://fonts.googleapis.com/css?family=Roboto:300,300i,400,700');
 
 	html, body	{ height: 100%; }
-	
+
 	body
-	{	
+	{
 		margin: 0px;
 		padding: 0px;
 		background-color: #eb5c59;
-		font-family: 'Roboto', sans-serif, 'FontAwesome';		
+		font-family: 'Roboto', sans-serif, 'FontAwesome';
 		font-size: 12pt;
 		color: rgba(0,0,0,.6);
 	}
-	
-	
+
+
 	h1, h2, h3
 	{
 		margin: 0;
 		padding: 0;
 		color: #404040;
 	}
-	
+
 	p, ul
 	{
 		font-family:sans-serif;
 		margin-top: 0;
 	}
-	
+
 	ul
 	{
 		padding: 0;
 		list-style: none;
 	}
-	
+
 	p
 	{
 		line-height: 180%;
 	}
-	
+
 	strong
 	{
 		font-weight:700;
@@ -51,27 +51,27 @@
 		font-weight: 400;
 	}
 	em {
-		font-weight: 300i;	
+		font-weight: 300i;
 	}
-	
+
 	a
 	{
 		text-decoration: none;
 		color: #eb5c59;
 	}
-	
+
 	a:hover
 	{
 		text-decoration: underline;
 		letter-spacing: 3px;
-	-moz-transition-duration: 0.6s;  
-    -webkit-transition-duration: 0.6s;  
+	-moz-transition-duration: 0.6s;
+    -webkit-transition-duration: 0.6s;
     -o-transition-duration: 0.6s;
 	}
-	
+
 /* click button */
 	.button
-	{	
+	{
 		font-size: 1em;
 		letter-spacing: 2px;
 		text-decoration: none;
@@ -83,7 +83,7 @@
 		line-height: 1.8em;
 
 	}
-	
+
 /* Titles */
 
  h2, h3
@@ -92,7 +92,7 @@
 		font-size: 2.8em;
 	}
 
-/* Header */ 
+/* Header */
 
 header
 	{
@@ -102,24 +102,24 @@ header
 }
 
 	#logo
-	{	
+	{
 		padding: 8em 0 4em 0;
 	}
-	
+
 	#logo h1
 	{
 		display: inline-block;
 		padding: 0.2;
 		font-size: 3.5em;
 	}
-	
+
 	#logo a
 	{
 		text-decoration: none;
 		color: #fff;
 	}
-	
- 
+
+
 
 /* Navigation Menu */
 
@@ -127,19 +127,19 @@ header
 	{
 		height: 60px;
 	}
-	
+
 	nav ul
 	{
 		display: inline-block;
 		padding: 0em 2em;
 		text-align: center;
 	}
-	
+
 	nav li
 	{
 		display: inline-block;
 	}
-	
+
 	nav li a, nav li span
 	{
 		display: inline-block;
@@ -155,14 +155,14 @@ header
 		color: #fff;
 		padding: 0em 1.5em;
 	}
-	
+
 	nav li:hover a, nav li.active a, nav li.active span /* when selected or hover over */
 	{
 		background: #fff;
 		color: #eb5c59;
 		font-weight: 700;
 	}
- 
+
 
 /* main,  article, section, after header */
 
@@ -182,13 +182,13 @@ header
 		padding: 6em 100px 0em 100px;
 		text-align: center;
 	}
-	
+
 	.content
 	{
 		padding: 0em 8em;
 	}
-	
-	figure 
+
+	figure
 	{
  	 	margin:0 ;
 	}
@@ -203,7 +203,7 @@ header
 		border-top: 1px solid rgba(235,92,89,0.5);
 		text-align: center;
 	}
-	
+
 	#three-column h2
 	{
 		margin: 1em 0em;
@@ -211,15 +211,15 @@ header
 		font-weight: 700;
 		border-top: 1px solid rgba(235,92,89,0.5);
 	}
-	
-		
+
+
 	#three-column #tbox1, #three-column #tbox2,	#three-column #tbox3
 	{
 		float: left;
 		padding: 80px 40px 80px 40px;
 		width: 320px;
 	}
-	
+
 	#three-column .title
 	{
 		text-align: center;
@@ -254,6 +254,11 @@ header
 
 	.portpic1 {
 	content: url(../images/portfolio1.jpg);
+	/* REVIEW: Incorrect use of content property:
+https://www.w3schools.com/cssref/pr_gen_content.asp
+
+And portfolio images are considered as content and not styling, and therefore should be in the HTML
+	 */
 	}
 	.portpic2 {
 	content: url(../images/portfolio2.jpg);
@@ -271,14 +276,14 @@ header
 	content: url(../images/portfolio6.jpg);
 	}
 
-/* (extra) content */ 
+/* (extra) content */
 
  	.inspic {
  	background-color: #efaf66;
  	padding:50px;
 	float: left;
 	content: url(../images/insp1.png);
-	max-width:700px; 
+	max-width:700px;
 	margin-top:10px;
 	margin-left:200px;
  	}
@@ -308,7 +313,7 @@ header
 	position:relative;
 }
 
-#contact input[type="text"], #contact input[type="email"], #contact textarea, #contact button[type="submit"] { 
+#contact input[type="text"], #contact input[type="email"], #contact textarea, #contact button[type="submit"] {
 	 font:inherit;}
 
 #contact {
@@ -383,7 +388,7 @@ fieldset {
 	text-transform: uppercase;
 	font-weight:700;
 	margin: 20px auto;
-	width: 50%;	
+	width: 50%;
 	border-bottom: 2px solid #fff;
 
 	}
@@ -399,7 +404,7 @@ fieldset {
 	letter-spacing: 1px;
 	color: rgba(255,255,255,0.6);
 	}
-	
+
 	#copyright a
 	{
 	text-transform: uppercase;

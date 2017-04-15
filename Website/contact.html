@@ -29,12 +29,13 @@
 
 	</div>
 </header>
- <section> 
+ <section>
 	<div id="three-column" class="cont">
         <h3>Contact Me</h3>
   <form id="contact" action="" method="post">
-    
+
     <fieldset>
+      <!-- REVIEW: don't use a fieldset for styling or positioning, use it to group form elements -->
       <input placeholder="Your name" type="text" tabindex="1" required autofocus>
     </fieldset>
     <fieldset>
@@ -44,10 +45,12 @@
     </fieldset>
     <fieldset>
       <button name="submit" type="submit" id="contact-submit" data-submit="...Sending">Submit</button>
+      <!-- REVIEW: Don't use a button but a input type="submit" for form buttons -->
     </fieldset>
   </form>
-  
+
   <center><h3> Map </h3>
+    <!-- REVIEW: <center> is deprecated, and styling. Not allowed in HTML -->
 <div id="map" style="width:400px;height:400px; bottom:20px;"></div></center>
 
 <script>
@@ -64,8 +67,8 @@ var map = new google.maps.Map(document.getElementById("map"), mapOptions);
 
 
 
-</section> 
-<footer> 
+</section>
+<footer>
 			<span class="fa-graduation-cap">Johanna Westerdijkplein 75 2521 EN Den Haag </span>
 
 			<span class="fa-phone-square"> +31 640822464 </span>
